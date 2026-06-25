@@ -1,1 +1,764 @@
-#EXTM3U
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 group-title="F1" tvg-logo="", Formula 1 [SportzX F1 HD]
+https://chatgpt.hereisman.net/playlist/51883/load-playlist?
+
+#EXTINF:-1 group-title="F1" tvg-logo="", Formula 1 [SKY SPORTS FHD]
+https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8
+
+#EXTINF:-1 group-title="F1" tvg-logo="", Formula 1 [DAZN ESPANOL HD]
+https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8
+
+#EXTINF:-1 group-title="F1" tvg-logo="", Formula 1 [SKY ITALY FHD]
+https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8
+
+#EXTINF:-1 group-title="F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", Formula 1 [SKY SPORTS HD]
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?
+
+#EXTINF:-1 group-title="F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", Formula 1 [SKY SPORTS F1 UHD]
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
+
+#EXTINF:-1 group-title="F1" tvg-logo="", Formula 1 [Sky F1 DE]
+https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE [SportzX WWE]
+https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE [BACKUP HD]
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE [BACKUP SD]
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10", Ireland vs India [TNT SPORTS HD]
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png", Ireland vs India [WILLOW HD]
+https://tmaxapp.site/willoweng.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Raw [SportzX WWE]
+https://chatgpt.hereisman.net/playlist/52071/load-playlist?
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Raw [SportzX RAW LIVE]
+https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Raw [HD SERVER]
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Raw [SportzX HD]
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Raw [Backup SD]
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [SportzX WWE HD]
+https://chatgpt.hereisman.net/playlist/51926/load-playlist?
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [WWE LIVE HD]
+https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [SD SERVER]
+http://193.47.62.44/hls/RGREGREQZ.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [SportzX TV+ HD]
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [HD QUALITY]
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [LOW QUALITY]
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Philadelphia Phillies [SportzX LIVE]
+https://mainstreams.pro/hls/kjhfzua25.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Toronto Blue Jays [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52494/load-playlist?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Toronto Blue Jays [SportzX Live]
+https://edge2caster.pro/hls/jzabfazkbf27.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Boston Red Sox [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52495/load-playlist?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Boston Red Sox [SportzX Live]
+https://edgestreams.pro/hls/hefbafbakx28.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Chicago Cubs [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52498/load-playlist?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Chicago Cubs [SportzX Live]
+https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Arizona Diamondbacks [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52506/load-playlist?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Arizona Diamondbacks [SportzX Live]
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", India W vs Bangladesh W [SKY SPORT NZ]
+https://tmaxapp.site/skynz3.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", India W vs Bangladesh W [SportzX Live]
+https://tmaxapp.site/willoweng.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png", West Indies vs Sri Lanka [FANCODE - IN]
+https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", England vs New Zealand [SKY CRICKET FHD]
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", England vs New Zealand [SKY MAIN EVENT]
+https://tmaxapp.site/skymainevent.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", England vs New Zealand [LOW SERVER]
+http://193.47.62.41/hls/EEEEDDD.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", England vs New Zealand [SKY SPORT NZ]
+https://tmaxapp.site/skynz1.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", England vs New Zealand [SonyLiv]
+https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg", Norway vs France [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782418809~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveF8BgsmNe1sCxy0CAuaX0CpEJzUogRTlfjKkPvojCcdktcLGMvpcmtVW6uCNdLknLp-hjnAHmHww7pzwkZMsQD
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [beIN MAX FHD]
+https://inproviszon.st/beinsportsmax4-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SportzX HD LIVE]
+https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ISCREEN BD FHD]
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [Binge+ FHD (BD)]
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX ONE HD]
+https://lb.xyzcloud3.xyz/FOX/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [BBC SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52474/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoJkAjWkPCi.m3u8?txSecret=c6aaad0168258ac0f0eee506b9b73492&txTime=6A3C7689
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Norway vs France [TELEMUNDO HD]
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX ONE 4K]
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX 4K LIVE]
+https://hundredmilesperhour.uk/fox4k-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Norway vs France [TELEMUNDO 4K]
+https://lb.xyzcloud3.xyz/tele4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Norway vs France [TSN SPORTS 4K]
+https://lb.xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ARABIC LIVE HD]
+https://lb.xyzcloud3.xyz/tod1/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52458/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52458/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SportzX Live]
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [HD SERVER ENG]
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [HD SERVER AR]
+https://edgestreams.pro/hls/sqdahach1ax.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SD SERVER [ENG]]
+http://193.47.62.42/hls/XSKKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ENG SD SERVER]
+http://193.47.62.55/hls/XSKKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SD SERVER [PT]]
+http://193.47.62.47/hls/EKKKQQQF.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Norway vs France [beiN SPORTS FR]
+http://193.47.62.55/hls/XEKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ESPANOL SD]
+http://193.47.62.59/hls/XEKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SportzX HD LIVE]
+https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [BBC SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52473/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Senegal vs Iraq [FOX SPORTS HD]
+https://lb.xyzcloud3.xyz/FS1/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Senegal vs Iraq [TSN SPORTS HD]
+https://lb.xyzcloud3.xyz/tsn2/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782420013~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfZ5JmGmk77YGPec76Lfl8EP2Kfaj46SO_-bpB5hYto2URysqJhDvM09Ng-nXeGdSjktjXP91QY6tA0vkbaAFMC
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [beIN MAX FHD]
+https://inproviszon.st/beinsportsmax3-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJMX3nyaE1k.m3u8?txSecret=4c1f5ec6cf85ce8116d085a2ae6684c3&txTime=6A3C7689
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [NBC SPORTS HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Senegal vs Iraq [FOX SPORTS 4K]
+https://lb.xyzcloud3.xyz/fs14k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [FS1 4K LIVE]
+https://inproviszon.st/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [NBC UNIVERSO 4K]
+https://lb.xyzcloud3.xyz/tele4k2/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ARABIC LIVE HD]
+https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Senegal vs Iraq [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52459/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Senegal vs Iraq [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52459/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SportzX Live]
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [HD SERVER ENG]
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [HD SERVER AR]
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ISCREEN BD FHD]
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SD SERVER [ENG]]
+http://193.47.62.42/hls/SKKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ENG SERVER SD]
+http://193.47.62.51/hls/SKKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Senegal vs Iraq [beIN SPORTS FR]
+http://193.47.62.59/hls/EKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [D SPORTS ES]
+http://193.47.62.47/hls/EKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SD SERVER [AR]]
+http://193.47.62.59/hls/EKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Ecuador vs Germany [BBC SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52519/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [SportzX HD Live]
+https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [TOFFEE BD FHD]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782502806~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwve-6C9KZpvx7IxIap5dS3-MCcQXuwyVWtdW9vtjEqfYcZLulyejpR78wN5dywGdKi-wTlsS-A9OdYbsCZf_Q5QE
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [ISCREEN BD FHD]
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [FOX ONE HD]
+https://vildid.hundredmilesperhour.uk/1782420795/23220638e5734cc587a65936528a76dd/qIzJVzCxBOr9CCD9dKPDyBk_zI8BPqO-R6AWn2o5KW4/fox-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoTY6DS43pJ.m3u8?txSecret=3b239872027f985ce0b1a8068df6923c&txTime=6A3DAEB8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Ecuador vs Germany [TELEMUNDO HD]
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [FOX 4K LIVE]
+https://vildid.hundredmilesperhour.uk/1782421833/f4e277bf9dca466fa23b941e7f25276d/k9H_fPs9xXXHtwGY-PnC8ixP2hU5CQk5Kdkk9MZnyzo/fox4k-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [FUSSBALL TV 4K]
+https://vildid.hundredmilesperhour.uk/1782421931/82de365940a845e8b05431d7aed6f6f6/U_DyEjSC9hiayDfXL8uY448n4BkIayvWjl6y99KMsz4/fusballtv1uhd-de.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [ARABIC LIVE FHD]
+https://vildid.hundredmilesperhour.uk/1782421972/f515b3f09090484cb94685ff40fcea04/5-j_Yumz4tcaE0JGl0Z26_ZLwBB3rCOwSB41WS2vcn4/beinsportsmax-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52518/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52511/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [ISCREEN BD (BDIX)]
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [SportzX Live]
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [TYC SPORTS HD]
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [HD SERVER EN]
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [HD SERVER AR]
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [SD SERVER [ENG]]
+http://193.47.62.51/hls/TKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [ENG SERVER SD]
+http://193.47.62.59/hls/TKKKQQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [SD SERVER  [SWE]]
+http://193.47.62.51/hls/TKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Ecuador vs Germany [beiN SPORTS FR]
+http://193.47.62.47/hls/TKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Ecuador vs Germany [ESPANOL SD]
+http://193.47.62.47/hls/TKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Curacao vs Cote d Ivoire [SportzX HD Live]
+https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Curacao vs Cote d Ivoire [FOX SPORTS HD]
+https://vildid.hundredmilesperhour.uk/1782424580/0897e971a0aa4960ab6cca8b04ac0bb6/6CQsrEVaru0e1IocMwxt_x0h-qNKXk17Umy5m4N1ASU/fox-sports-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782502809~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvd7KBBuA1EMXqUnEGZbB_lF0I7gAI5mThuMXcVsml6_0Z3aiBTytmc5pJjwGjG5Rvey1E7Ybv5cyD3zoYb9tgoJ
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8W47WEmx8e.m3u8?txSecret=ffaa3accd299fbbd388188f6ea86b83f&txTime=6A3DAEB8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [beIN MAX FHD]
+https://vildid.hundredmilesperhour.uk/1782424840/409668caf75e4736a8d10dcbaf0631e6/hq4BfBpiDVp6MBGdcQtQJ1LECl0Aa9qP3lKo4Q2HT0Q/beinsportsmax2-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Curacao vs Cote d Ivoire [TELEMUNDO HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Curacao vs Cote d Ivoire [FOX 4K LIVE]
+https://vildid.hundredmilesperhour.uk/1782425092/b2864d7486414345b7995ab663f48bd1/dCJL_f_Ge22aQECgIDvj0n9KUqdp1CzlVvIjR85_4UQ/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [FUSSBALL TV 4K]
+https://vildid.hundredmilesperhour.uk/1782425120/25f0fdbf34f54217882808b3cb906da6/PrNp1lC3WieEL93CxeynybRRlbkMS6FT9kWvW5g1KXY/fusballtv2uhd-de.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [UNIVERSEO 4K]
+https://vildid.hundredmilesperhour.uk/1782425172/427279ae06a74485842912368247a26b/BskkFSYIJmn_wxHhopgXu42gTHnxmeyu9uFZfBOddCU/universouhd-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Curacao vs Cote d Ivoire [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52418/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Curacao vs Cote d Ivoire [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52510/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [SportzX Live]
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [HD SERVER ENG]
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [HD SERVER AR]
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [SD SERVER [ENG]]
+http://193.47.62.51/hls/QTKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [ENG SERVER SD]
+http://193.47.62.59/hls/QTKKKQQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [SD SERVER [SWE]]
+http://193.47.62.59/hls/QTKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Curacao vs Cote d Ivoire [beiN SPORTS FR]
+http://193.47.62.59/hls/QTKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Curacao vs Cote d Ivoire [ESPANOL SD]
+http://193.47.62.55/hls/QTKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Japan vs Sweden [BBC SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52431/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [SportzX FHD LIVE]
+https://hugh.cdn.rumble.cloud/live/vf1v23qp/slot-18/lae9-zlj8_1080p/chunklist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [QAZ SPORTS FHD]
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [TOFFE BD BDIX]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782286810~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfiOAPJ58wbG_mIMZKZOGDV5J9UO4oH28U8AF_0jFtuLazz2qvq_iDI8xGgFrtW9P0z4GvHOAs0nDRp3NILKyMM
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Japan vs Sweden [FOX FHD LIVE]
+https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Japan vs Sweden [TSN FHD LIVE]
+https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN1/playlist.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgU1zajKEv8N.m3u8?txSecret=43ee1d5ba9a12caa51e48dbb3b5f27f5&txTime=6A3B3480
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [FAST SERVER 2]
+https://live.vivo200.com/live/hd-en-1-4460977.m3u8?txSecret=1ad622b5b7cefb648c5b9395ec44a0ea&txTime=6A3B204F
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Japan vs Sweden [TELEMUNDO HD]
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Japan vs Sweden [FOX SPORTS 4K]
+https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Japan vs Sweden [beIN SPORTS 4K]
+https://wc.streamxyz.shop:2053/bein/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [beIN MAX HDR]
+https://wc.streamxyz.shop:2053/bein4k/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Japan vs Sweden [TELEMUNDO FHD]
+https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Japan vs Sweden [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52437/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Japan vs Sweden [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52432/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [ARABIC LIVE HD]
+https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [TYC SPORTS HD]
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [ISCREEN BD FHD]
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Japan vs Sweden [TSN SPORTS]
+https://soccerball.st/s1.php
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [SOMOY TV HD]
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [SportzX Live]
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [HD SERVER ENG]
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [HD SERVER EN 2]
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [HD SERVER AR]
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [SD SERVER [ENG]]
+http://193.47.62.51/hls/XZAZAZAZA.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [ENG SERVER SD]
+http://193.47.62.42/hls/XFOFOFO.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [SD SERVER [SWE]]
+http://193.47.62.59/hls/XZAZAZAZAS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Japan vs Sweden [beiN SPORTS FR]
+http://193.47.62.59/hls/XJUJUJUSS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Japan vs Sweden [ESPANOL SD]
+http://193.47.62.59/hls/XJUJUJUS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [QAZ SPORTS FHD]
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Tunisia vs Netherlands [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52447/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782349212~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcUH0Ym-D2JOfrD9TYgF4kZtvpJ1Q3OzqIVrlqvDWlQ7lIHyLW77zTmT1IMefTWy6KvptOkuWs-Kn_oMpLFpnEN
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [ISCREEN BDIX (BD)]
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Tunisia vs Netherlands [TSN FHD LIVE]
+https://naremanums.s3.eu-west-1.amazonaws.com/btsport.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Tunisia vs Netherlands [TSN 4K]
+https://xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Tunisia vs Netherlands [FOX SPORTS 4K]
+https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [FUSSBALL TV 4K]
+https://inproviszon.st/fusballtv1uhd-de.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTyo6rqQzyU.m3u8?txSecret=7103c7faf5ef2a7dd2a4420da5bd24e8&txTime=6A3B6090
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [FAST SERVER 2]
+https://live.vivo200.com/live/hd-en-1-4460974.m3u8?txSecret=a86181604e022045bbad76e8eaa4f965&txTime=6A3B4CEA
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Tunisia vs Netherlands [beIN SPORTS FHD]
+https://xyzcloud3.xyz/bein/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [beIN MAX HDR]
+https://xyzcloud3.xyz/bein4k/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Tunisia vs Netherlands [TELEMUNDO FHD]
+https://xyzcloud3.xyz/Telemundo/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Tunisia vs Netherlands [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52446/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Tunisia vs Netherlands [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52446/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [beIN MAX HD]
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [ARABIC LIVE HD]
+https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Tunisia vs Netherlands [TSN SPORTS]
+https://soccerball.st/s1.php
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [SOMOY TV HD]
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [SportzX Live]
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [HD SERVER ENG]
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [HD SERVER AR]
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [SD SERVER [ENG]]
+http://193.47.62.42/hls/XZAZAZAZA.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [ENG SD SERVER]
+http://193.47.62.59/hls/XFOFOFO.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [SD SERVER [SWE]]
+http://193.47.62.59/hls/XZAZAZAZAS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Tunisia vs Netherlands [beiN SPORTS FR]
+http://193.47.62.55/hls/XJUJUJUSS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Tunisia vs Netherlands [ESPANOL SD]
+http://193.47.62.55/hls/XJUJUJUS.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [FOX ONE HD]
+https://xyzcloud3.xyz/FOX/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Paraguay vs Australia [TSN SPORTS HD]
+https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52461/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782412808~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwve1Wp6CP5KxOzvahOYWrlTswmR0RMSdAgOMpnOal1v9DmSY1mIpOPPuboVxuCXDIGgHKnnvR2ph1g7hQEK9m0IK
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ISCREEN BD FHD]
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSWjvLsne8v.m3u8?txSecret=73cff1aa572643af9bd8b44bb9226550&txTime=6A3C4DC0
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [SportzX HD LIVE]
+https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Paraguay vs Australia [TELEMUNDO HD]
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [FOX ONE 4K]
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Paraguay vs Australia [TELEMUNDO 4K]
+https://lb.xyzcloud3.xyz/tele4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Paraguay vs Australia [TSN SPORTS 4K]
+https://xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ARABIC LIVE FHD]
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Paraguay vs Australia [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52457/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Paraguay vs Australia [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52457/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [TYC SPORTS HD]
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [SportzX Live]
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [SOMOY TV HD]
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ARABIC LIVE HD]
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/igB6gfpnnb0ok2mvoHK1KKemXMEbp1oHYMfW57HLwPbHr3i7mKDLG5edHU6oM98_rIou0Vmi0ueQjSYTRtroiA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public//master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Paraguay vs Australia [TSN SPORTS]
+https://soccerball.st/s1.php
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [HD SERVER ENG]
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [HD SERVER AR]
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [SD SERVER [ENG]]
+http://193.47.62.59/hls/XSKKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ENG SD SERVER]
+http://193.47.62.55/hls/XSKKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [SD SERVER [SWE]]
+http://193.47.62.55/hls/XEKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Paraguay vs Australia [beiN SPORTS FR]
+http://193.47.62.59/hls/XEKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Paraguay vs Australia [ESPANOL SD]
+http://193.47.62.55/hls/XEKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Turkiye vs USA [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52460/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Turkiye vs USA [FOX SPORTS HD]
+https://xyzcloud3.xyz/FS1/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [TSN SPORTS HD]
+https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi2_1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782412811~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvclezOITKsnwedNdxdHhvQTLhSJyZWkIYs89IJqZT3eqoA9PLrUYUsAsQxHFCwAG5019OiX7104w7Slt3kVADwJ
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJAXeSaSeFG.m3u8?txSecret=a305cf98c0c23e03962c1cc8e0a66b14&txTime=6A3C4DC0
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [NBC SPORTS HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [FOX SPORTS 4K]
+https://xyzcloud3.xyz/fs14k/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [NBC UNIVERSO 4K]
+https://xyzcloud3.xyz/tele4k2/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [ARABIC LIVE FHD]
+https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/video.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52456/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Turkiye vs USA [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52460/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [SportzX Live]
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [HD SERVER ENG]
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [HD SERVER AR]
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [ARABIC LIVE HD]
+https://ex.creatas.site/poolos1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [ISCREEN BD FHD]
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Turkiye vs USA [TSN SPORTS]
+https://soccerball.st/s1.php
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [SOMOY TV HD]
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [SD SERVER [ENG]]
+http://193.47.62.55/hls/SKKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [ENG SERVER SD]
+http://193.47.62.55/hls/SKKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Turkiye vs USA [beIN SPORTS FR]
+http://193.47.62.47/hls/XEKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [D SPORTS ES]
+http://193.47.62.55/hls/XEKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Turkiye vs USA [SD SERVER [SWE]]
+http://193.47.62.55/hls/GGGG.m3u8?
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", South Africa W vs Netherlands W [SKY SPORT NZ]
+https://tmaxapp.site/skynz2.m3u8
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Tampa Bay Rays vs Royals [SportzX Live]
+?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Pittsburgh Pirates vs Mariners [SportzX Live]
+?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Giants vs Athletics [SportzX Live]
+?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Detroit Tigers vs Houston Astros [SportzX Live]
+?
+
