@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -23,10 +25,7 @@ jobs:
         run: python scraper.py
 
       - name: Commit and Push
-        run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
-          git add .
-          git commit -m "Auto-updated live sports" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push || echo "No changes to push"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-updated live sports"
+          file_pattern: "sports.m3u"
