@@ -39,6 +39,18 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="", WWE [BACKUP SD]
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="", Zimbabwe vs Bangladesh [T SPORTS - AQ]
+http://starhub.pro/live/Anthony2/Anthony123/52500.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj", Zimbabwe vs Bangladesh [FOX CRICKET HD]
+https://tmaxapp.site/foxcricket.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", Zimbabwe vs Bangladesh [TAPMAD FHD]
+https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", Zimbabwe vs Bangladesh [T SPORTS HD]
+https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1781942066~Starts=1781855666~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=GWqDeRYBLPDd7t6O2Z6mY0kK-ZjAlsMYp9OIJMeexFfdZgY2w8e90na2LCtHxy3yIts4-nDPv33pM0nEKuzlDw
+
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10", Ireland vs India [TNT SPORTS HD]
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8
 
@@ -76,7 +88,7 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
 #EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [SportzX WWE HD]
-https://chatgpt.hereisman.net/playlist/51926/load-playlist?
+https://chatgpt.hereisman.net/playlist/52583/load-playlist?
 
 #EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [WWE LIVE HD]
 https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
@@ -93,25 +105,10 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="", WWE Smackdown Friday [LOW QUALITY]
 https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Minnesota Twins [SportzX LIVE]
-https://mainstreams.pro/hls/kjhfzua25.m3u8?
-
-#EXTINF:-1 group-title="MLB" tvg-logo="", Miami Marlins [SportzX Live]
-https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?
-
-#EXTINF:-1 group-title="MLB" tvg-logo="", Athletics [SportzX Live]
-https://edgestreams.pro/hls/jzabfazkbf27.m3u8?
-
-#EXTINF:-1 group-title="MLB" tvg-logo="", San Diego Padres [SportzX Live]
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?
-
-#EXTINF:-1 group-title="MLB" tvg-logo="", Atlanta Braves [SportzX Live]
-https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", Sri Lanka W vs Scotland W [SKY SPORT NZ]
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph", England W vs New Zealand W [SKY SPORT NZ]
 https://tmaxapp.site/skynz3.m3u8
 
-#EXTINF:-1 group-title="Cricket" tvg-logo="", Sri Lanka W vs Scotland W [SportzX Live]
+#EXTINF:-1 group-title="Cricket" tvg-logo="", England W vs New Zealand W [SportzX Live]
 https://tmaxapp.site/willoweng.m3u8
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10", West Indies vs Sri Lanka [TNT SPORTS HD]
@@ -135,359 +132,212 @@ https://tmaxapp.site/skynz1.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="", England vs New Zealand [SonyLiv]
 https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg", Norway vs France [TOFFE BDIX (BD)]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg", Jordan vs Argentina [TOFFE BDIX (BD)]
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782578409~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdnhDQZKdpSkX1giJ51S9S0OwgRzxUUGKmn6g9c-FFi95KAGfRqdN_MCCno28NJwKDdfxEfc8jNZF5ST9E9WgAO
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ITV SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [ITV SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52549/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [beIN MAX FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [beIN MAX FHD]
 https://vildid.hundredmilesperhour.uk/1782505431/ea657348dfd94fa9a03ea9b9c4a63ddc/1cXbJqsCyU-sezwERv9t53CNuzWjAQrbw3S92PMbVW8/beinsportsmax2-sa.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ISCREEN BD FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [ISCREEN BD FHD]
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [TSN SPORTS FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [TSN SPORTS FHD]
 https://vildid.hundredmilesperhour.uk/1782505246/c0f94047d9384cc28fc6761b45f2a27c/LjamqnQrQpZ9DDHigeYTFD-5NW22AkQMQ5xbWHeIUt0/tsn1-ca.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX ONE HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FOX ONE HD]
 https://lb.xyzcloud3.xyz/FOX/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FAST SERVER]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FAST SERVER]
 https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJ2nQTAy3UJ.m3u8?txSecret=5a733c6d2b5b557345bb398060dad1cb&txTime=6A3EEF59
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Norway vs France [TELEMUNDO HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Jordan vs Argentina [TELEMUNDO HD]
 https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX ONE 4K]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FOX ONE 4K]
 https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX 4K LIVE]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FOX 4K LIVE]
 https://vildid.hundredmilesperhour.uk/1782505282/88571e4fbc86415ba51d9e015dac65f4/LlpU_-tWIkhQkTG5Vtd4IGHun5C2JXu0ZmRjM1dv2Eo/fox4k-usa.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Norway vs France [TELEMUNDO FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Jordan vs Argentina [TELEMUNDO FHD]
 https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Norway vs France [TSN SPORTS 4K]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Jordan vs Argentina [TSN SPORTS 4K]
 https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FUSSBALL 4K LIVE]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FUSSBALL 4K LIVE]
 https://vildid.hundredmilesperhour.uk/1782505729/f91631f4804e40918a34d6c22a2b425d/vzZrEt9bl3albPVR5vLtvFGGN-vUrPy08HJwPJ0ecKc/fusballtv1uhd-de.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [IRIB 4K]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ARABIC LIVE HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [ARABIC LIVE HD]
 https://lb.xyzcloud3.xyz/bein2/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [FOX SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [FOX SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52551/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [TSN SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [TSN SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52548/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SportzX Live]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [SportzX Live]
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [HD SERVER ENG]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [HD SERVER ENG]
 https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [HD SERVER AR]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [HD SERVER AR]
 https://edge2caster.pro/hls/sqdahach1ax.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [DAZN SPANISH]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [DAZN SPANISH]
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SD SERVER [ENG]]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [SD SERVER [ENG]]
 http://193.47.62.55/hls/GOOO.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ENG SD SERVER]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [ENG SD SERVER]
 http://193.47.62.59/hls/UIIII.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [SD SERVER [SWE]]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [SD SERVER [SWE]]
 http://193.47.62.47/hls/RFRFRF.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Norway vs France [beiN SPORTS FR]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Jordan vs Argentina [beiN SPORTS FR]
 http://193.47.62.59/hls/RFRFRFQQ.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Norway vs France [ESPANOL SD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Jordan vs Argentina [ESPANOL SD]
 https://live06.zuqiu106.com/live/20233432.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Senegal vs Iraq [ITV SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Algeria vs Austria [ITV SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52550/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Senegal vs Iraq [FOX SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Algeria vs Austria [FOX SPORTS HD]
 https://lb.xyzcloud3.xyz/FS1/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Senegal vs Iraq [TSN SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Algeria vs Austria [TSN SPORTS HD]
 https://lb.xyzcloud3.xyz/tsn2/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [TOFFE BDIX (BD)]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [TOFFE BDIX (BD)]
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782582010~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdVvVxb57lNjL075QsFbjN-dBef_A8KVYO1bNx1thN2bq_vgwnWAvVoJdrRAxcqUfYPGRlM3rW_4Ts1liBwmacM
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [beIN MAX FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [beIN MAX FHD]
 https://vildid.hundredmilesperhour.uk/1782505541/bf9bd5a3f94f41b1a618643f51cb624d/3okRkzIN8E9YgXBdVFikDOPpCQLrKFGVK8ZbRSCX2iI/beinsportsmax-sa.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [FAST SERVER]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [FAST SERVER]
 https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdBtsMRAhFL.m3u8?txSecret=a261c177bab5dba925a1232e786365aa&txTime=6A3EEF59
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [NBC SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [NBC SPORTS HD]
 https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [PEACOCK FHD [ALT]]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [PEACOCK FHD [ALT]]
 ok
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Senegal vs Iraq [FOX SPORTS 4K]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Algeria vs Austria [FOX SPORTS 4K]
 https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [FS1 4K LIVE]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [FS1 4K LIVE]
 ok
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [NBC UNIVERSO FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [NBC UNIVERSO FHD]
 https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [FUSSBALL 4K LIVE]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [FUSSBALL 4K LIVE]
 https://vildid.hundredmilesperhour.uk/1782505674/102c4bc3a07342e6b34c1da547b83b4c/2tzQpUE7hL-JKxemghHxv-e4f9x43liWnmTvnEyqlw0/fusballtv2uhd-de.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [IRIB 4K]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ARABIC LIVE HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [ARABIC LIVE HD]
 https://lb.xyzcloud3.xyz/bein/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Senegal vs Iraq [FOX SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Algeria vs Austria [FOX SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52550/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Senegal vs Iraq [TSN SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Algeria vs Austria [TSN SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52550/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SportzX Live]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [SportzX Live]
 https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [HD SERVER ENG]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [HD SERVER ENG]
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [HD SERVER AR]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [HD SERVER AR]
 https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [DAZN SPANISH]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [DAZN SPANISH]
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ISCREEN BD FHD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [ISCREEN BD FHD]
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SD SERVER [ENG]]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [SD SERVER [ENG]]
 http://193.47.62.47/hls/JJJJQQ.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [ENG SERVER SD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [ENG SERVER SD]
 http://193.47.62.47/hls/FFFFFFF.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Senegal vs Iraq [beIN SPORTS FR]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Algeria vs Austria [beIN SPORTS FR]
 http://193.47.62.55/hls/JJJJQ.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [D SPORTS ES]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [D SPORTS ES]
 https://live06.zuqiu106.com/live/79635460.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Senegal vs Iraq [SD SERVER [AR]]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [SD SERVER [AR]]
 http://193.47.62.51/hls/JJJJ.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Uruguay vs Spain [ITV SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52504/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [TOFFEE BDIX (BD)]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [TSN SPORTS FHD]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [FOX ONE HD]
-https://lb.xyzcloud3.xyz/FOX/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [FAST SERVER]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Uruguay vs Spain [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [PEACOCK FHD [ALT]]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [FOX ONE 4K]
-https://lb.xyzcloud3.xyz/fox4k/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [FOX 4K LIVE]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Uruguay vs Spain [TSN SPORTS 4K]
-https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Uruguay vs Spain [TELEMUNDO FHD]
-https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [IRIB 4K]
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [ARABIC LIVE HD]
-https://lb.xyzcloud3.xyz/bein/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Uruguay vs Spain [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52500/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Uruguay vs Spain [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52505/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [TYC SPORTS HD]
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [ISCREEN BD FHD]
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [SportzX Live]
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [HD SERVER ENG]
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [HD SERVER AR]
-https://mainstreams.pro/hls/sqdahach1ax.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [DAZN SPANISH]
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [SD SERVER [ENG]]
-http://193.47.62.59/hls/VSKKKK.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [ENG SD SERVER]
-http://193.47.62.51/hls/VSKKKKQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [SD SERVER [SWE]]
-http://193.47.62.59/hls/VEKKKQQQF.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Uruguay vs Spain [beiN SPORTS FR]
-http://193.47.62.55/hls/VEKKKQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Uruguay vs Spain [ESPANOL SD]
-http://193.47.62.55/hls/VEKKKQQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", Cabo Verde vs Saudi Arabia [ITV SPORTS HD]
-https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Cabo Verde vs Saudi Arabia [FOX SPORTS HD]
-https://lb.xyzcloud3.xyz/FS1/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [TSN SPORTS HD]
-https://lb.xyzcloud3.xyz/tsn2/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [TOFFE BDIX (BD)]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [beIN MAX FHD]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [FAST SERVER]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [NBC SPORTS HD]
-https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [PEACOCK FHD [ALT]]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Cabo Verde vs Saudi Arabia [FOX SPORTS 4K]
-https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [NBC UNIVERSO FHD]
-https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [IRIB 4K]
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [ARABIC LIVE HD]
-ok
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52502/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Cabo Verde vs Saudi Arabia [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52502/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Cabo Verde vs Saudi Arabia [SportzX Live]
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [HD SERVER EN]
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [HD SERVER AR]
-https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [DAZN SPANISH]
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [ISCREEN BD FHD]
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [SD SERVER [ENG]]
-?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [ENG SD SERVER]
-?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [SD SERVER [SWE]]
-?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Cabo Verde vs Saudi Arabia [beiN SPORTS FR]
-?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Cabo Verde vs Saudi Arabia [ESPANOL SD]
-?
-
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Egypt vs Iran [BBC SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52519/load-playlist?
+https://chatgpt.hereisman.net/playlist/52599/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SportzX HD Live]
-https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Egypt vs Iran [TSN SPORTS HD]
+https://nhjjhhjhjjhfjj.pages.dev/1782542541/d6252e90f0b04850bf3a732cdc3cc7e5/JgwF-iXffdfoe30jbmxIlBxb2Yj5F2JxNkrkl_YMMzo/tsn2-ca.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS HD]
+https://nhjjhhjhjjhfjj.pages.dev/1782542523/49afdce5f7e3496993a1db5d8339dd08/XStPdGfE4zy3dCNX7blRTUw93HFKThiNoqKGXYVXTT4/fox-sports-1.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [TOFFEE BD FHD]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782502806~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwve-6C9KZpvx7IxIap5dS3-MCcQXuwyVWtdW9vtjEqfYcZLulyejpR78wN5dywGdKi-wTlsS-A9OdYbsCZf_Q5QE
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782613217~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdm0p8VN5a1VjwYaIM7zc4xVpMds-AZxv0CbjeE-Z3VZBmeq_tEiiN8qFoco28Cf23h2modnnQYvi3wxWVg-4oH
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ISCREEN BD FHD]
-https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FOX ONE HD]
-https://vildid.hundredmilesperhour.uk/1782427275/3e4d442c726f46c3861b7f4b3e080232/TuvJK-J6j5gjqxDzGUfKcC5C2TgP-9qCDYl7xGpb_zQ/fox-usa.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [beIN MAX FHD]
+https://nhjjhhjhjjhfjj.pages.dev/1782542559/0c83cef047744384a7527cc67c28012a/hMYmUqmJna-4FY-2pjfrHcCH-hdCycCskUhhm6vUEIo/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoTY6DS43pJ.m3u8?txSecret=3b239872027f985ce0b1a8068df6923c&txTime=6A3DAEB8
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg885JoSWnbg.m3u8?txSecret=e0e299b2637573d27df3112284b4a242&txTime=6A3F6230
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Egypt vs Iran [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Egypt vs Iran [UNIVERSEO HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS 4K]
+https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FOX 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782427319/7f0cdbb2f2354df8b61ad17d1a4dc960/DFpemaQuqfi74UhnmHsNhDVDKwtXr15LahAe-ZBEA7M/fox4k-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542581/0adc1ca3c0cc48bca5115a2c10570177/TVzorvq8FH8gf1nKHx3nMzir2WNj-8Kw1FfcVCMMpgc/fox-sports-1-4k.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FUSSBALL TV 4K]
-https://vildid.hundredmilesperhour.uk/1782427340/d51e6c6c78c442eb9dd44a449419967c/Sb0sou1ocn67_D1vcoTTN801A-HPIMIW3tM42uusXsk/fusballtv1uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542596/e653e8fc6a9445e694ce6c5a8a6dade0/oDMIPIkxTztyBq9kjsppVKJ8QYynjJ0YB9B2RZwNwd4/fusballtv2uhd-de.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ARABIC LIVE FHD]
-https://vildid.hundredmilesperhour.uk/1782427361/0180d0bb059d48feb792a382093b6ccb/ponAdBtTyFd6uaE99J2uG63SmEfthgtN62dEuWthCzk/beinsportsmax-sa.m3u8
+https://lb.xyzcloud3.xyz/bein2/index.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [PEACOCK SPANISH 4K]
-https://vildid.hundredmilesperhour.uk/1782427395/7c038afd9a464c5d8fd9eba0de9704fa/bvgPoSiuFD67b6_oukldCt8Jyrd1k9JFCzOLGxAOjyE/peacock-1.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [NBC UNIVERSO FHD]
+https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52518/load-playlist?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52597/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52511/load-playlist?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Egypt vs Iran [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52601/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ISCREEN BD (BDIX)]
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SportzX Live]
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [TYC SPORTS HD]
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
@@ -496,91 +346,97 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [HD SERVER EN]
-https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [HD SERVER AR]
-https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SD SERVER [ENG]]
-http://193.47.62.51/hls/TKKKQQQ.m3u8?
+http://193.47.62.47/hls/JJJJQQ.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ENG SERVER SD]
-http://193.47.62.59/hls/TKKKQQQQ.m3u8?
+http://193.47.62.42/hls/FFFFFFF.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SD SERVER  [SWE]]
-http://193.47.62.51/hls/TKKK.m3u8?
+http://193.47.62.51/hls/RFRFRF.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Egypt vs Iran [beiN SPORTS FR]
-http://193.47.62.47/hls/TKKKQ.m3u8?
+http://193.47.62.59/hls/JJJJQ.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ESPANOL SD]
-http://193.47.62.47/hls/TKKKQQ.m3u8?
+http://193.47.62.55/hls/JJJJ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", New Zealand vs Belgium [BBC SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52600/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS HD]
+https://nhjjhhjhjjhfjj.pages.dev/1782542347/3721be6081fc4bb9a2ac025f9a7f99aa/HbzYJRVP038shZGoU_wye4BHvv9cxLpunRgCUmTwEWo/tsn1-ca.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX SPORTS HD]
-https://vildid.hundredmilesperhour.uk/1782427080/8024d667b07e45cb940467f92303c0d3/fcYbeS6RxbfZ-s8upjqx6w0-Wrbb4bYZolRfKUop8RE/fox-sports-1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", New Zealand vs Belgium [SportzX HD Live]
-https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX SPORTS HD]
-https://vildid.hundredmilesperhour.uk/1782424580/0897e971a0aa4960ab6cca8b04ac0bb6/6CQsrEVaru0e1IocMwxt_x0h-qNKXk17Umy5m4N1ASU/fox-sports-1.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542312/a1846957079e41799485afa0d1ef4e63/uXOHsxclZ2EerKm2N13bKyI8_4bf614MUB4E8sCDry0/fox-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782502809~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvd7KBBuA1EMXqUnEGZbB_lF0I7gAI5mThuMXcVsml6_0Z3aiBTytmc5pJjwGjG5Rvey1E7Ybv5cyD3zoYb9tgoJ
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782613215~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvci0sEQW61immPRTKFJl3Gy4VaiI-oin_WHxR4IHk6r9pFElGX0crDzvHClgDzRDwQOenUU-NlJ-C1DAy8cJoUP
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8W47WEmx8e.m3u8?txSecret=ffaa3accd299fbbd388188f6ea86b83f&txTime=6A3DAEB8
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJQmD9yED1G.m3u8?txSecret=be0962eb776e2c61eda8cb6d6b26fa2b&txTime=6A3F6230
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [beIN MAX FHD]
-https://vildid.hundredmilesperhour.uk/1782427249/1915fa862a4e4f94959a280005f32bc4/5YRH-7GeMXGh6kUSiPKZqqMGMmlwHxWfUenlDaK8oTY/beinsportsmax2-sa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542366/ac435e7650914311849509163936e75d/WAZAkRNQaAPQxxfAvT1my2j200RxBZBxqk1_7dAmJno/beinsportsmax2-sa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", New Zealand vs Belgium [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FOX ONE 4K]
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782427156/9ff2039fdf9243adb3d70aca39566ab0/DQMUPwEp_nhqlL9yFUBCK_z3eBa5JWAyw4NKf3IUDes/fox-sports-1-4k.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542410/81e3f7a45769483f9722659c217c932a/kXFAAoD1JjNPI5eOLIqODUK1yERYQ9Ry6_jFyZcxrTQ/fox4k-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS 4K]
+https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FUSSBALL TV 4K]
-https://vildid.hundredmilesperhour.uk/1782427228/2ac47334b1a842ee8de92fc2f6641312/fR5wToooE-wNl_BHySA2RhQeXzER_kWX9XIJsqzXzPg/fusballtv2uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542388/5b30401fff074b68bb75781ec61bfb56/fPgwkb40g5rW3MEl4Ai_ZEsm6th_k4QU6SeQoEFmsng/fusballtv1uhd-de.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [UNIVERSEO 4K]
-https://vildid.hundredmilesperhour.uk/1782427196/ab6cb365219b4aa3892889a64a844086/AxVcjrhXOFeZtRonCbjHyfVxgrHSwDfJmYUXJ9xl_Ok/universouhd-usa.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [TELEMUNDO FHD]
+https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52418/load-playlist?
+https://chatgpt.hereisman.net/playlist/52602/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52510/load-playlist?
+https://chatgpt.hereisman.net/playlist/52598/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SportzX Live]
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [HD SERVER ENG]
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [HD SERVER AR]
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+https://edge2caster.pro/hls/sqdahach1ax.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [DAZN SPANISH]
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SD SERVER [ENG]]
-http://193.47.62.51/hls/QTKKKQQQ.m3u8?
+http://193.47.62.47/hls/GOOO.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [ENG SERVER SD]
-http://193.47.62.59/hls/QTKKKQQQQ.m3u8?
+http://193.47.62.42/hls/UIIII.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SD SERVER [SWE]]
-http://193.47.62.59/hls/QTKKK.m3u8?
+http://193.47.62.51/hls/RFRFRF.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", New Zealand vs Belgium [beiN SPORTS FR]
-http://193.47.62.59/hls/QTKKKQ.m3u8?
+http://193.47.62.59/hls/RFRFRFQQ.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [ESPANOL SD]
-http://193.47.62.55/hls/QTKKKQQ.m3u8?
+http://193.47.62.51/hls/RFRFRFQQX.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Panama vs England [BBC SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52528/load-playlist?
@@ -714,388 +570,593 @@ http://193.47.62.59/hls/QTKKKQ.m3u8?
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [ESPANOL SD]
 ?
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Detroit Tigers vs Houston Astros [SportzX MLB]
-https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Colombia vs Portugal [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52543/load-playlist?
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Pirates vs Cincinnati Reds [SportzX MLB]
-https://edgestreams.pro/hls/dazhfiach15.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [QAZ SPORTS FHD]
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Baltimore Orioles vs Nationals [SportzX MLB]
-https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782519618~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfN4Y1NYhyrwFCFgE0T7hX5WO1uN80Lyhc9CuiwwIMRBVN_Q9810SfDFscxWpcR8Z5SpxGrDdE2N4OoB9vHwH0I
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Blue Jays vs Texas Rangers [SportzX MLB]
-https://edge2caster.pro/hls/Czajafjihafch18.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FOX ONE HD]
+https://vildid.hundredmilesperhour.uk/1782452490/2240ea7168dc4d1584a25def3b1341a2/C2qQqDaUVESGwneaOs-41v2hqA6Mr_hJZAtKa8ggOrE/fox-sports-1.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Red Sox vs Yankees [SportzX MLB]
-https://edge2caster.pro/hls/jkzahzadach20.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgHnYqjnBUiJ.m3u8?txSecret=c6cb1c95fa4e6e7cad7a29e73ed815fa&txTime=6A3E00C0
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Guardians vs Seattle Mariners [SportzX MLB]
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Colombia vs Portugal [TELEMUNDO HD]
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", New York Mets vs Phillies [SportzX MLB]
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FOX 4K LIVE]
+https://vildid.hundredmilesperhour.uk/1782452610/0a996302c91041faad6539d18653e3c6/fn_ma4_WDY7b3JiRAyzP1RnInxl7cPXX9-rbMJAUAzk/fox-sports-1-4k.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Rays vs Diamondbacks [SportzX MLB]
-https://edge2caster.pro/hls/bzagLHzach19.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FUSSBALL TV UHD]
+https://vildid.hundredmilesperhour.uk/1782452724/6bcd2069aad0426c8b0b96fed6e7a0e7/ZI_WLfKEOvqkMF68RzIdP7UA9YrvNTcupIJ8BVPRBZ4/fusballtv2uhd-de.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", White Sox vs Kansas City Royals [SportzX MLB]
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ARABIC LIVE FHD]
+https://vildid.hundredmilesperhour.uk/1782452637/3fa559c11dcd44839ac89eb6dd7f67b1/8tLuv0TCiG7IuLp0mNcX0KYvJ5dskLisfdM5ptR247w/beinsportsmax-sa.m3u8
 
-#EXTINF:-1 group-title="MLB" tvg-logo="", Brewers vs Chicago Cubs [SportzX MLB]
-https://edge2caster.pro/hls/fskjanach24.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Darts" tvg-logo="", US Darts Masters | US Darts Masters [Server 1]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Colombia vs Portugal [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52546/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Colombia vs Portugal [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52543/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [SportzX Live]
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [TYC SPORTS HD]
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [HD SERVER ENG]
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [HD SERVER AR]
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [SD SERVER [ENG]]
+http://193.47.62.42/hls/QTKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ENG SD SERVER]
+http://193.47.62.55/hls/QTKKKQQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [SD SERVER [SWE]]
+http://193.47.62.55/hls/TKKK.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Colombia vs Portugal [beiN SPORTS FR]
+http://193.47.62.55/hls/QTKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ESPANOL SD]
+http://193.47.62.47/hls/QTKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", DR Congo vs Uzbekistan [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52544/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [TOFFE BDIX (BD)]
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782519616~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvevi58vT5nOZBuhzytXG0MeqvotuD7Yj-Ly013wDwYtHwipa0XoSgSsoYfhY18DNmdOaQey1j1SiF3ngKQjjfQL
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX ONE HD]
+https://vildid.hundredmilesperhour.uk/1782452332/02e79a35f6a4498b83c7b41153316edc/Cp77oBBGp5gb0qsxA0SQfww1hyYnV5odTGf6k5jUdJA/fox-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FAST SERVER]
+https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHRwmiHgPtqU.m3u8?txSecret=5be5bfd9583645ca79a4d9f34ca4ce76&txTime=6A3E00C0
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [NBC SPORTS HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX SPORTS 4K]
+https://vildid.hundredmilesperhour.uk/1782452358/ce969ca7a80543d6add57b5180d00aba/AWpy2NWfKgNI2ARKjT1aJY9EnwsZSzgINyD8mxWemvE/fox4k-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FUSSBALL TV UHD]
+https://vildid.hundredmilesperhour.uk/1782452439/410c13c271ea4b8c8d175145357d5d6f/_oBi9nw0KhKTP2EklRZCyNdBpfn9PSiCKmY1a0DEh9o/fusballtv1uhd-de.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [ARABIC LIVE FHD]
+https://vildid.hundredmilesperhour.uk/1782452412/67eef1038dee44c1a116059e66588bb8/gY1OCNQo72Gkt8RBD6LmoIL2NDQ3gzkUMrjDlKdomxU/beinsportsmax-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [IRIB 4K]
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52547/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", DR Congo vs Uzbekistan [TSN SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52539/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SportzX Live]
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [HD SERVER ENG]
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [HD SERVER AR]
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [DAZN SPANISH]
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [ISCREEN BD FHD]
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SD SERVER [ENG]]
+http://193.47.62.55/hls/TKKKQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [ENG SERVER SD]
+http://193.47.62.42/hls/TKKKQQQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", DR Congo vs Uzbekistan [beIN SPORTS FR]
+http://193.47.62.47/hls/TKKKQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [D SPORTS ES]
+http://193.47.62.55/hls/TKKKQQ.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SD SERVER [CN]]
+https://live06.zuqiu106.com/live/79635460.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", West Indies W vs Ireland W [SKY CRICKET - AQ]
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="", West Indies W vs Ireland W [SKY SPORT NZ]
+https://tmaxapp.site/skynz2.m3u8
+
+#EXTINF:-1 group-title="Australian Darts Association" tvg-logo="", Weekend 4, Day 2 | Australian Darts Association [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1782632797-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-1541b9cba7175ba7de5a420a5a21156f
+
+#EXTINF:-1 group-title="Australian Darts Association" tvg-logo="", Weekend 4, Day 2 | Australian Darts Association [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=cef5bf669447fa10b0431ffb43290e5c&x-time=1782546360
+
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20890.png", Olympic Kingsway VS Balcatta | Western Australia NPL [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53dc/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=dd4da6a1d31820bfff5587d115a5c05d&x-time=1782546360
+
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20890.png", Olympic Kingsway VS Balcatta | Western Australia NPL [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53dc/chunks.m3u8?is_vip=false&token=1782632803-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-556bf608f43bc296c1e40c8ae1ba198b
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16777.png", SD Raiders VS St George City FA | New South Wales NPL [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d9/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=4a0baa40d17d6bbb70674c479ea05fc7&x-time=1782546360
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16777.png", SD Raiders VS St George City FA | New South Wales NPL [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d9/chunks.m3u8?is_vip=false&token=1782632808-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-4c974a117bf8f60315a54680c033ed8f
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11180.png", Logan Lightning VS Caboolture | Queensland Premier League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e8/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=1ae81a3a5daf43f324226ba9775c6d05&x-time=1782546360
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11180.png", Logan Lightning VS Caboolture | Queensland Premier League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e8/chunks.m3u8?is_vip=false&token=1782632814-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-4d95c488ed0e1d15e35de0b9d97ea687
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3801.png", Dandenong Thunder VS Hume City | Victoria NPL [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53da/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=1d3b8045f6eaad2837ac5be24f3980f5&x-time=1782546360
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3801.png", Dandenong Thunder VS Hume City | Victoria NPL [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53da/chunks.m3u8?is_vip=false&token=1782632819-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-516741214ef90660b9bd3ba6d90e614d
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27636.png", Quinns FC VS Murdoch Melville | Western Australia State League 1 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e0/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=02b82058d7c5cb04d4a9d87409d1c368&x-time=1782546420
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27636.png", Quinns FC VS Murdoch Melville | Western Australia State League 1 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e0/chunks.m3u8?is_vip=false&token=1782632824-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-63fde7ec2993c6157bd73e41b0ae0e50
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22493.png", Mandurah City VS Kingsley Westside | Western Australia State League 1 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e1/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=ebab39558648df68b1fabc4a04fb51ff&x-time=1782546420
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22493.png", Mandurah City VS Kingsley Westside | Western Australia State League 1 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e1/chunks.m3u8?is_vip=false&token=1782632830-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-763859aaefcceffc23ab8e25adfc7e77
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21034.png", Subiaco VS Joondalup City | Western Australia State League 1 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e2/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=d02320ae56cb0f7447e8a7bc7cc91f2b&x-time=1782546420
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21034.png", Subiaco VS Joondalup City | Western Australia State League 1 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e2/chunks.m3u8?is_vip=false&token=1782632835-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-6a3302695677de618e1ba1b5a957f80c
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23533.png", UWA Nedlands VS Cockburn City | Western Australia State League 1 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e3/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=fd11abdc29f29ffc340ddf379bcfec82&x-time=1782546420
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23533.png", UWA Nedlands VS Cockburn City | Western Australia State League 1 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e3/chunks.m3u8?is_vip=false&token=1782632840-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-fcb80269bf7eaba083389f695372b8b6
+
+#EXTINF:-1 group-title="Western Australia State League 1" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3817.png", Floreat Athena VS Inglewood United | Western Australia State League 1 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e4/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=78394e21c9d829cb00091aae0cef9e1d&x-time=1782546420
+
+#EXTINF:-1 group-title="Western Australia State League 1" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3817.png", Floreat Athena VS Inglewood United | Western Australia State League 1 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53e4/chunks.m3u8?is_vip=false&token=1782632846-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-2d6bbc8b97a4a893f5a55c1e93713096
+
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3820.png", Perth Glory II VS Stirling Lions | Western Australia NPL [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=1c29fa65431a70cacd1af0525a6459f2&x-time=1782509460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53db/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=ed3a4bb1b8a221f98529fb0ee5f21e9d&x-time=1782546420
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Drew Hedgecoe VS Calvin Baierl | UTR Pro Waco [Server 1]
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3820.png", Perth Glory II VS Stirling Lions | Western Australia NPL [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ecca7aed4bb3db0b4b23e/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=fea4be3a9c979c4c603445dea116c876&x-time=1782509460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53db/chunks.m3u8?is_vip=false&token=1782632851-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-f23a19690ce647598ae80ecd24c3ab04
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Drew Hedgecoe VS Calvin Baierl | UTR Pro Waco [Server 2]
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21025.png", Fremantle City VS Western Knights | Western Australia NPL [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ecca7aed4bb3db0b4b23e/chunks.m3u8?is_vip=false&token=1782595899-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-37846bc61355d144287f15d8c3d24b0b
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53dd/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=2df1dc4bb8b084b1899abe09a1a78a41&x-time=1782546420
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Zuzanna Kubacha VS Ishika Ashar | UTR Pro Waco Women [Server 1]
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21025.png", Fremantle City VS Western Knights | Western Australia NPL [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe856618c8c6840f0b7f/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=b2864460d2513a7ac454934aeaf83c68&x-time=1782509460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53dd/chunks.m3u8?is_vip=false&token=1782632856-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-b3bd53ec44e1f51159e431a902da0271
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Zuzanna Kubacha VS Ishika Ashar | UTR Pro Waco Women [Server 2]
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3812.png", Armadale VS Perth | Western Australia NPL [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe856618c8c6840f0b7f/chunks.m3u8?is_vip=false&token=1782595904-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-4464edd7b1be19c29fa93ee3b38850df
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53df/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=b8bfcf28152d4c1a214562fee9170924&x-time=1782546420
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lexie Weir VS Elena Mireles | UTR Pro Waco Women [Server 1]
+#EXTINF:-1 group-title="Western Australia NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3812.png", Armadale VS Perth | Western Australia NPL [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe856618c8c6840f0b80/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=604e9a54597d313d48e7e4c98ebb5a47&x-time=1782509460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53df/chunks.m3u8?is_vip=false&token=1782632864-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-6316d622d5b295ec185159bb1e439802
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lexie Weir VS Elena Mireles | UTR Pro Waco Women [Server 2]
+#EXTINF:-1 group-title="New South Wales NPL 2" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27462.png", Hurstville FC VS Hills Brumbies | New South Wales NPL 2 [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe856618c8c6840f0b80/chunks.m3u8?is_vip=false&token=1782595909-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-19107a14893101954a40fcf8e0b0a504
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53bb/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=58e8a34674f55dfc1d763d55a412692a&x-time=1782546420
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gonzalo Villanueva VS Valerio Aboian | Challenger Piracicaba [Server 1]
+#EXTINF:-1 group-title="New South Wales NPL 2" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27462.png", Hurstville FC VS Hills Brumbies | New South Wales NPL 2 [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ed251ce986c47406257e1/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=cdf9e08603feb7e9356c9311f85c0f46&x-time=1782509460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53bb/chunks.m3u8?is_vip=false&token=1782632870-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-33e6c55c7aea32d07663b2bb9b00ab8f
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gonzalo Villanueva VS Valerio Aboian | Challenger Piracicaba [Server 2]
+#EXTINF:-1 group-title="K3 League" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7059.png", Changwon City VS Yeoju Sejong | K3 League [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ed251ce986c47406257e1/chunks.m3u8?is_vip=false&token=1782595915-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-eba3c5715d54b23cb5f668130be07f7e
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53bc/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=264ff2a43e4d7f1a314fad83cd911870&x-time=1782546420
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Calla McGill VS Liam Oved | UTR Pro Knoxville Women [Server 1]
+#EXTINF:-1 group-title="K3 League" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7059.png", Changwon City VS Yeoju Sejong | K3 League [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ecca7d06bfc5094aa9ca5/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=1fbbc80754f3ec826538abba9874fa20&x-time=1782509460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53bc/chunks.m3u8?is_vip=false&token=1782632875-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-e99e9475e204226dd9f7e8916bd10212
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Calla McGill VS Liam Oved | UTR Pro Knoxville Women [Server 2]
+#EXTINF:-1 group-title="M15 Kamen" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Daniel Salazar VS Benito Sanchez Martinez | M15 Kamen [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ecca7d06bfc5094aa9ca5/chunks.m3u8?is_vip=false&token=1782595920-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-eabdee92d32367c84286e675a4808476
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2651/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=f4c4f31dfe48b3d43765a3ebbd458b1e&x-time=1782546420
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jane Dunyon VS Alyson Shannon | UTR Pro Knoxville Women [Server 1]
+#EXTINF:-1 group-title="M15 Kamen" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Daniel Salazar VS Benito Sanchez Martinez | M15 Kamen [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ecca7005675444152081d/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=fb5b012f765088767cb8e733f8f7cbb6&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2651/chunks.m3u8?is_vip=false&token=1782632880-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-5b3d4e8dbc8418a1ce9c5211f76703c8
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jane Dunyon VS Alyson Shannon | UTR Pro Knoxville Women [Server 2]
+#EXTINF:-1 group-title="W15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Charlotte Narti VS Margaux Maquet | W15 Alkmaar [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ecca7005675444152081d/chunks.m3u8?is_vip=false&token=1782595925-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-64e6f1cd8a801a53a7a6d2b49641bdec
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2652/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=407653cfc2e269874ddb92d95509b366&x-time=1782546480
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Tomas Jirousek VS Cole Stelse | UTR Pro Waco [Server 1]
+#EXTINF:-1 group-title="W15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Charlotte Narti VS Margaux Maquet | W15 Alkmaar [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ecca77133406e4c14dfdb/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=7b5633e3e63f70d7fc8e80f1ff448e3e&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2652/chunks.m3u8?is_vip=false&token=1782632885-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-bf9c063808433c131c37459c6c413252
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Tomas Jirousek VS Cole Stelse | UTR Pro Waco [Server 2]
+#EXTINF:-1 group-title="W15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lian Tran VS Isis Louise Van den Broek | W15 Alkmaar [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ecca77133406e4c14dfdb/chunks.m3u8?is_vip=false&token=1782595930-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-d789fe3318e24cf4cb087094fe91d8ac
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678df59507a97ae2c027/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=a739a3fb6b6bae478220cea94d7a853e&x-time=1782546480
 
-#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2555.png", Sport Huancayo VS ADT | Copa De La Liga [Server 1]
+#EXTINF:-1 group-title="W15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lian Tran VS Isis Louise Van den Broek | W15 Alkmaar [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae72/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=cfdc1b6e0f53d8068b71ff6021cd5ce2&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678df59507a97ae2c027/chunks.m3u8?is_vip=false&token=1782632891-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-8c1b6a7da2fbae7e7a00dbc1bf53097a
 
-#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2555.png", Sport Huancayo VS ADT | Copa De La Liga [Server 2]
+#EXTINF:-1 group-title="W15 Kayseri WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kurt/Subasic VS Soke/Turkmen | W15 Kayseri WD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae72/chunks.m3u8?is_vip=false&token=1782595935-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-993d3762e135f34cddfc98ff72e6ac49
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d30bace3974f8baca/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=d57dab1ba0847c0e44397b33fe9f865a&x-time=1782546480
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Ritesh Patil VS Gregory Bernadsky | UTR Pro Waco [Server 1]
+#EXTINF:-1 group-title="W15 Kayseri WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kurt/Subasic VS Soke/Turkmen | W15 Kayseri WD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe852eb310ffd1b6bf34/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=3ecefb2ba091c21f84dcc3cba27122bd&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d30bace3974f8baca/chunks.m3u8?is_vip=false&token=1782632896-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-a46351bae51c9de834fcd8a8c3d24961
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Ritesh Patil VS Gregory Bernadsky | UTR Pro Waco [Server 2]
+#EXTINF:-1 group-title="W15 Claremont WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lopez/Zhu VS Chung/Guichard | W15 Claremont WD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe852eb310ffd1b6bf34/chunks.m3u8?is_vip=false&token=1782595940-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-c19b3af5eee180aeeff78d54d3254d51
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678df59507a97ae2c028/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=fce1d5f1b0c48b4312ee8b2d71bc137b&x-time=1782546480
 
-#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2548.png", Alianza Universidad VS Minas | Copa De La Liga [Server 1]
+#EXTINF:-1 group-title="W15 Claremont WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lopez/Zhu VS Chung/Guichard | W15 Claremont WD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae73/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=7bd525819f3a636ee89188b2401a7650&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678df59507a97ae2c028/chunks.m3u8?is_vip=false&token=1782632901-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-78e8cc3d415ec3296e452c9dfb3a1280
 
-#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2548.png", Alianza Universidad VS Minas | Copa De La Liga [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Felipe Vazquez VS George Hakopian | UTR Pro Newport Beach [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae73/chunks.m3u8?is_vip=false&token=1782595946-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-e3ae4e8f1992f614c0e41dfe43a255f6
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2653/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=adac8add88f574e5962b35b91a407136&x-time=1782546480
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nick Hardt VS Juan Manuel La Serna | Challenger Piracicaba [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Felipe Vazquez VS George Hakopian | UTR Pro Newport Beach [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3edc2baed4bb3db0b4ea10/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=fdef69b841648c8014d641ccf8cdc0f1&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d818b53788c1a2653/chunks.m3u8?is_vip=false&token=1782632906-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-323ab134ccff2e9e3dc58baf8ffc5419
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nick Hardt VS Juan Manuel La Serna | Challenger Piracicaba [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lorenzo Brunkow VS Emmanuel Alex | UTR Pro Newport Beach [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3edc2baed4bb3db0b4ea10/chunks.m3u8?is_vip=false&token=1782595951-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-112276047198c1f3663c22e0adbc165c
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d30392eaef47baa3a/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=4f47378ebf5eeb6c207afad7d078a91d&x-time=1782546480
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nicolas Kicker VS Thiago Seyboth Wild | Challenger Piracicaba [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lorenzo Brunkow VS Emmanuel Alex | UTR Pro Newport Beach [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ee67cbb875b4ddf16ea69/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=e2954d4c976103e9013a095694fec370&x-time=1782509520
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d30392eaef47baa3a/chunks.m3u8?is_vip=false&token=1782632912-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-c9da568651d0319837daa3b762d30061
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nicolas Kicker VS Thiago Seyboth Wild | Challenger Piracicaba [Server 2]
+#EXTINF:-1 group-title="Super Rugby Aupiki" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23430.png", VS | Super Rugby Aupiki [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ee67cbb875b4ddf16ea69/chunks.m3u8?is_vip=false&token=1782595956-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-b2a29fd8a14171d3fd552a2816564e9c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782632916-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-b3d1b95b4a4db361e38ee76453381b1e
 
-#EXTINF:-1 group-title="M15 Kamen MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Horak/Pecak VS Al-Amin/Ruland | M15 Kamen MD [Server 1]
+#EXTINF:-1 group-title="Super Rugby Aupiki" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23430.png", VS | Super Rugby Aupiki [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3edab68cf753005740b6ea/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=636826db3c5f77a0c3d47e4bf78cc481&x-time=1782509520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=239ce729ad7650cbc37472787fa54e39&x-time=1782546480
 
-#EXTINF:-1 group-title="M15 Kamen MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Horak/Pecak VS Al-Amin/Ruland | M15 Kamen MD [Server 2]
+#EXTINF:-1 group-title="NRL Rugby" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/ca33066721df92219bf12ae96f87fa35.png", New Zealand Warriors VS Dolphins | NRL Rugby [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3edab68cf753005740b6ea/chunks.m3u8?is_vip=false&token=1782595961-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-9cf9f73605fde15ac34275da8afe1c1f
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=2a56cecb75121f7c60d2cea04a2c3b94&x-time=1782546480
 
-#EXTINF:-1 group-title="M15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Pieter De Lange VS Manel Lazaro Juncadella | M15 Alkmaar [Server 1]
+#EXTINF:-1 group-title="M15 Alkmaar MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gustafsson/Penzlin VS Forger/Khoeblal | M15 Alkmaar MD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3edab6ce986c4740626473/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=0abf863ef2d39eb6475cee8fdeccc872&x-time=1782509520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596d1ceff894917e8cd2/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=9b682bad2af3ad8548d1aefcf0a0fb2a&x-time=1782546480
 
-#EXTINF:-1 group-title="M15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Pieter De Lange VS Manel Lazaro Juncadella | M15 Alkmaar [Server 2]
+#EXTINF:-1 group-title="M15 Alkmaar MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gustafsson/Penzlin VS Forger/Khoeblal | M15 Alkmaar MD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3edab6ce986c4740626473/chunks.m3u8?is_vip=false&token=1782595966-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-62684921a532348523a657be4bf0a73f
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596d1ceff894917e8cd2/chunks.m3u8?is_vip=false&token=1782632929-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-1c2a8cf42a557e2ed703159531aec70e
 
-#EXTINF:-1 group-title="M15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Marc Majdandzic VS Jesse De Jager | M15 Alkmaar [Server 1]
+#EXTINF:-1 group-title="W50 Gdansk" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mina Hodzic VS Anastasiya Konstantinovna Soboleva | W50 Gdansk [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3edab62eb310ffd1b70af3/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=0ec2b33d99aa2893d80639167029dfa5&x-time=1782509520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b68d06bfc5094b5b934/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=f9880397b8f88ea8ab8bf4e60ab2d9bb&x-time=1782546480
 
-#EXTINF:-1 group-title="M15 Alkmaar" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Marc Majdandzic VS Jesse De Jager | M15 Alkmaar [Server 2]
+#EXTINF:-1 group-title="W50 Gdansk" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mina Hodzic VS Anastasiya Konstantinovna Soboleva | W50 Gdansk [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3edab62eb310ffd1b70af3/chunks.m3u8?is_vip=false&token=1782595971-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-5db9df3e4ed7703066cb90ce109f8c72
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b68d06bfc5094b5b934/chunks.m3u8?is_vip=false&token=1782632934-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-cb63ace83333d786b267a757678fa3d7
 
-#EXTINF:-1 group-title="ATP Eastbourne" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Zizou Bergs VS Ugo Humbert | ATP Eastbourne [Server 1]
+#EXTINF:-1 group-title="W15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Ksenia Zaytseva VS Dusica Popovski | W15 Kursumlijska Banja [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3edab6d7f718fae4e97187/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=ad5a93605e4b4dec06037f39305ae891&x-time=1782509520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b68f59507a97ae15e77/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=4a1249f5fee3bd478df98274d340e8b5&x-time=1782546480
 
-#EXTINF:-1 group-title="ATP Eastbourne" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Zizou Bergs VS Ugo Humbert | ATP Eastbourne [Server 2]
+#EXTINF:-1 group-title="W15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Ksenia Zaytseva VS Dusica Popovski | W15 Kursumlijska Banja [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3edab6d7f718fae4e97187/chunks.m3u8?is_vip=false&token=1782595976-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-eb67c7885ec225fb391857afeb4e2091
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b68f59507a97ae15e77/chunks.m3u8?is_vip=false&token=1782632940-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-8b180fa8eb5034a0c3c89e26726e8fdb
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nicolas Iantosca VS Arman Zamani | UTR Pro Waco [Server 1]
+#EXTINF:-1 group-title="W50 Gdansk" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Weronika Ewald VS Gina Feistel | W50 Gdansk [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85bb875b4ddf1665ad/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=c677b75103f44bb0fc3b54c06e6fe85e&x-time=1782509580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b68ebc5c3ef2c7196eb/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=4e7efdcccc1d73239c72965e3c30be85&x-time=1782546540
 
-#EXTINF:-1 group-title="UTR Pro Waco" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nicolas Iantosca VS Arman Zamani | UTR Pro Waco [Server 2]
+#EXTINF:-1 group-title="W50 Gdansk" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Weronika Ewald VS Gina Feistel | W50 Gdansk [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85bb875b4ddf1665ad/chunks.m3u8?is_vip=false&token=1782595982-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-1665ae03f6d4dc0b3b9eb2717f5bb01b
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b68ebc5c3ef2c7196eb/chunks.m3u8?is_vip=false&token=1782632945-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-294a84ea63d1ff3c21ff67b1329ec7de
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lera Alexin VS Hanmare Mcaslin | UTR Pro Waco Women [Server 1]
+#EXTINF:-1 group-title="W15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nina Radovanovic VS Anja Stankovic | W15 Kursumlijska Banja [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe854e6abdac61e5833e/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=2a46424408e8711677d64044a916424e&x-time=1782509580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b6830bace3974f7475b/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=a453713499d5b70fbcc2b94c16140d79&x-time=1782546540
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lera Alexin VS Hanmare Mcaslin | UTR Pro Waco Women [Server 2]
+#EXTINF:-1 group-title="W15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nina Radovanovic VS Anja Stankovic | W15 Kursumlijska Banja [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe854e6abdac61e5833e/chunks.m3u8?is_vip=false&token=1782595987-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-4170fdb1b790d4072f7105df50638ba1
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b6830bace3974f7475b/chunks.m3u8?is_vip=false&token=1782632950-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-bf96179ec3ce38254ce5aea56cb535b6
 
-#EXTINF:-1 group-title="1st Test" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/a519bbeadaec88d0aeafcc113d4723cc.png", West Indies VS Sri Lanka | 1st Test [Server 1]
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Miguel/Saraiva Dos Santos VS Rodriguez/Urrea | Challenger Piracicaba MD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=b5a69c7238bb02127457f4f87e0c0f8c&x-time=1782509580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b687133406e4c1b74ef/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=c04a935d6e19f41bc8f465320bc35992&x-time=1782546540
 
-#EXTINF:-1 group-title="UTR Pro Budapest Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Norina Bak Szabo VS Julita Saner | UTR Pro Budapest Women [Server 1]
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Miguel/Saraiva Dos Santos VS Rodriguez/Urrea | Challenger Piracicaba MD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a130392eaef46e9537/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=4d3589af0f4613e83ee79be5e4011c7f&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b687133406e4c1b74ef/chunks.m3u8?is_vip=false&token=1782632955-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-7b9f2c41993d1587616f7e6b9113aa3e
 
-#EXTINF:-1 group-title="UTR Pro Budapest Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Norina Bak Szabo VS Julita Saner | UTR Pro Budapest Women [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alina Shcherbinina VS Chantal Sauvant | UTR Pro Newport Beach Women [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a130392eaef46e9537/chunks.m3u8?is_vip=false&token=1782595996-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-77ee3d9bdb5ad5d1bfa872ca06601891
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b6830392eaef47a928b/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=8bb865de20bd5002304b701bcda5befe&x-time=1782546540
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5610.png", Caerau (Ely) VS Undy Athletic | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alina Shcherbinina VS Chantal Sauvant | UTR Pro Newport Beach Women [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f5/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=492596af34fe737473446e232ad66612&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b6830392eaef47a928b/chunks.m3u8?is_vip=false&token=1782632961-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-75f499df64cc00d32c6024aa7a1ace76
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5610.png", Caerau (Ely) VS Undy Athletic | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexia Harmon VS Anastasia Grechkina | UTR Pro Newport Beach Women [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f5/chunks.m3u8?is_vip=false&token=1782596002-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-375246ff19b3473d7507af3c19430cc4
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f4b68005675444156879d/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=80293009f7ee797db6af992481ee2b12&x-time=1782546540
 
-#EXTINF:-1 group-title="Premiership Women" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21486.png", Cliftonville W VS Larne W | Premiership Women [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexia Harmon VS Anastasia Grechkina | UTR Pro Newport Beach Women [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a36f85d2eb310ffd167bb2d/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=4d62484029d4a478b131bce387d6ba67&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f4b68005675444156879d/chunks.m3u8?is_vip=false&token=1782632966-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-40b5817be8db5aa664b5a8b7eb56cc5e
 
-#EXTINF:-1 group-title="Premiership Women" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21486.png", Cliftonville W VS Larne W | Premiership Women [Server 2]
+#EXTINF:-1 group-title="Super Rugby Women's" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/17f066dc9044e1b61f377ae52a0668b6.png", Western Force VS Waratahs | Super Rugby Women's [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a36f85d2eb310ffd167bb2d/chunks.m3u8?is_vip=false&token=1782596012-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-5bdeb7e0554739e2a0db798c2e4ec54c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1782632971-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-eb9ba1b8b200d6cb412396c3a2703feb
 
-#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Rodriguez/Urrea VS Bini/Souza | Challenger Piracicaba MD [Server 1]
+#EXTINF:-1 group-title="Super Rugby Women's" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/17f066dc9044e1b61f377ae52a0668b6.png", Western Force VS Waratahs | Super Rugby Women's [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe86ebc5c3ef2c67061c/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=5f7c97ec544d1e2a91e462c84b2f6f4d&x-time=1782509580
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=a910f1b9c7533c13c4ffebc4742a4eac&x-time=1782546540
 
-#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Rodriguez/Urrea VS Bini/Souza | Challenger Piracicaba MD [Server 2]
+#EXTINF:-1 group-title="Queensland NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10221.png", Peninsula Power VS Brisbane Roar II | Queensland NPL [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe86ebc5c3ef2c67061c/chunks.m3u8?is_vip=false&token=1782596018-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-48096416b7ea0bf458b255c51c223dfa
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53ce/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=8a637487f268100d1ca94ea05ff39751&x-time=1782546540
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Joaquin Aguillar Cardozo VS Matheus Pucinelli De Almeida | Challenger Piracicaba [Server 1]
+#EXTINF:-1 group-title="Queensland NPL" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10221.png", Peninsula Power VS Brisbane Roar II | Queensland NPL [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ec69aa536306159770a18/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=6ce8a307052482b1c89e2c2913965e96&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53ce/chunks.m3u8?is_vip=false&token=1782632977-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-5b94d1622884122a19357f23bd7bcf1f
 
-#EXTINF:-1 group-title="Challenger Piracicaba" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Joaquin Aguillar Cardozo VS Matheus Pucinelli De Almeida | Challenger Piracicaba [Server 2]
+#EXTINF:-1 group-title="W50 Gdansk WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kulambayeva/Toth VS Falkowska/Garcia-Perez | W50 Gdansk WD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ec69aa536306159770a18/chunks.m3u8?is_vip=false&token=1782596023-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-c25df555513f8e84ed6a0343fa305744
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596dbd8b5851506d5157/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=c3c832d7bd2e0bb4f44777e62cab43ff&x-time=1782546540
 
-#EXTINF:-1 group-title="UTR Pro Budapest" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Rafael Kis Balazs VS Marcell Bartakovics | UTR Pro Budapest [Server 1]
+#EXTINF:-1 group-title="W50 Gdansk WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kulambayeva/Toth VS Falkowska/Garcia-Perez | W50 Gdansk WD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe852eb310ffd1b6bf33/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=0bd3e6ebded35a006675271ef22c6d14&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596dbd8b5851506d5157/chunks.m3u8?is_vip=false&token=1782632982-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-53048c275a827d099b7ffd523b804f0c
 
-#EXTINF:-1 group-title="UTR Pro Budapest" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Rafael Kis Balazs VS Marcell Bartakovics | UTR Pro Budapest [Server 2]
+#EXTINF:-1 group-title="W35 Rome" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jo Yee Chan VS Ayana Akli | W35 Rome [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe852eb310ffd1b6bf33/chunks.m3u8?is_vip=false&token=1782596028-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-487ea15934a347c6868b085c0803166e
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596daed4bb3db0bd1773/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=3e42d10e818572f5f9f692828afa32bd&x-time=1782546540
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kaili Demi Teso VS Daria Budko | UTR Pro Waco Women [Server 1]
+#EXTINF:-1 group-title="W35 Rome" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jo Yee Chan VS Ayana Akli | W35 Rome [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85d8b0af885e0ab67e/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=519c99cf1d3013ecc30fca10dec90eef&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596daed4bb3db0bd1773/chunks.m3u8?is_vip=false&token=1782632987-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-33c86a39944cae7585d00bc21b73e674
 
-#EXTINF:-1 group-title="UTR Pro Waco Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kaili Demi Teso VS Daria Budko | UTR Pro Waco Women [Server 2]
+#EXTINF:-1 group-title="W35 Rome" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Amelia Honer VS Sahaja Yamalapalli | W35 Rome [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85d8b0af885e0ab67e/chunks.m3u8?is_vip=false&token=1782596033-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-6e8a19f0ae16880bfb4ed09ff7d64897
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596d55d8b708a7ada2f3/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=1ecae3be1f8f8bd7d97aea90fe7849db&x-time=1782546540
 
-#EXTINF:-1 group-title="Premier Padel Valladolid" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Coello/Tapia VS Augsburger/Lebron | Premier Padel Valladolid [Server 1]
+#EXTINF:-1 group-title="W35 Rome" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Amelia Honer VS Sahaja Yamalapalli | W35 Rome [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85d7f718fae4e91cab/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=f901bafd53415de259235a0810cca584&x-time=1782509580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596d55d8b708a7ada2f3/chunks.m3u8?is_vip=false&token=1782632996-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-4079583f9058008339cf22f57b3782ea
 
-#EXTINF:-1 group-title="Premier Padel Valladolid" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Coello/Tapia VS Augsburger/Lebron | Premier Padel Valladolid [Server 2]
+#EXTINF:-1 group-title="W35 Tarvisio" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Deborah Chiesa VS Radka Zelnickova | W35 Tarvisio [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85d7f718fae4e91cab/chunks.m3u8?is_vip=false&token=1782596038-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-446a5e91fbc58fedeaf5279701aed56a
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596d074b83da0143cce2/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=05fa2db11723686573ae18e6944e5fef&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Brady Hussey VS Davis Wiley | UTR Pro Knoxville [Server 1]
+#EXTINF:-1 group-title="W35 Tarvisio" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Deborah Chiesa VS Radka Zelnickova | W35 Tarvisio [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85774cbee6e56c6e8e/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=52024a9fcc53a4072421a42aad8def7e&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596d074b83da0143cce2/chunks.m3u8?is_vip=false&token=1782633001-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-92fdf6b6ed435867a74cdc794dd03241
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Brady Hussey VS Davis Wiley | UTR Pro Knoxville [Server 2]
+#EXTINF:-1 group-title="M25 Porto MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Hands/Summers VS Andaloro/Moroni | M25 Porto MD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85774cbee6e56c6e8e/chunks.m3u8?is_vip=false&token=1782596043-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-c1ddc709e730e76f298a83dba929929b
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596d818b53788c198815/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=98da33deec80cda703357de04d2be189&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", David Krasner VS Chase Robinson | UTR Pro Knoxville [Server 1]
+#EXTINF:-1 group-title="M25 Porto MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Hands/Summers VS Andaloro/Moroni | M25 Porto MD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85a53630615976ee15/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=73746dc4e125363badc3d364eba40ac6&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596d818b53788c198815/chunks.m3u8?is_vip=false&token=1782633007-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-c8518ca8129da7418ac8a5390a3e169d
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", David Krasner VS Chase Robinson | UTR Pro Knoxville [Server 2]
+#EXTINF:-1 group-title="W15 Asuncion WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Barrera Aguirre/Meabe VS Ccuno/Konishi Camargo Silva | W15 Asuncion WD [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85a53630615976ee15/chunks.m3u8?is_vip=false&token=1782596048-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-4e93ed21c1b99656a7d74dfad1277599
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596df59507a97ae2107e/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=a263f319c9b7b3208730bfeca7d25807&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kaya Moe VS Addison Iacono | UTR Pro Knoxville Women [Server 1]
+#EXTINF:-1 group-title="W15 Asuncion WD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Barrera Aguirre/Meabe VS Ccuno/Konishi Camargo Silva | W15 Asuncion WD [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85d8b0af885e0ab67d/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=35b1b36d33d75a7c612aadb322bac480&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596df59507a97ae2107e/chunks.m3u8?is_vip=false&token=1782633012-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-14aa8761207826cdb57dd4ad94d8401e
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kaya Moe VS Addison Iacono | UTR Pro Knoxville Women [Server 2]
+#EXTINF:-1 group-title="W15 Claremont" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alyssa Ahn VS Midori Castillo Meza | W15 Claremont [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85d8b0af885e0ab67d/chunks.m3u8?is_vip=false&token=1782596053-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-fd984fd498458401021607a2d79383e9
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596daed4bb3db0bd1774/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=d1bcb71f754234fb5313008d1e706411&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mary Boyce Deatherage VS Audrey Aulia | UTR Pro Knoxville Women [Server 1]
+#EXTINF:-1 group-title="W15 Claremont" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alyssa Ahn VS Midori Castillo Meza | W15 Claremont [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe858cb9e8c43befba17/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=e58c41d901e8e4a871e17a746dc1796b&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596daed4bb3db0bd1774/chunks.m3u8?is_vip=false&token=1782633017-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-b5f622a5de80da869c3ddf16e33806cc
 
-#EXTINF:-1 group-title="UTR Pro Knoxville Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mary Boyce Deatherage VS Audrey Aulia | UTR Pro Knoxville Women [Server 2]
+#EXTINF:-1 group-title="W15 Claremont" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexandra Vagramov VS Alexis Nguyen | W15 Claremont [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe858cb9e8c43befba17/chunks.m3u8?is_vip=false&token=1782596059-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-e3a4125df51c529432c573abf9bb5c8b
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f596d9a1d202ef646b69b/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=431b4d9ad2ff64007241f1596f26630c&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nathan Pitts VS Atakan Karahan | UTR Pro Knoxville [Server 1]
+#EXTINF:-1 group-title="W15 Claremont" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexandra Vagramov VS Alexis Nguyen | W15 Claremont [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85945e9dbcc7646bdc/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=ce5e34bcb2f3fc0269e28ba34867ad45&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f596d9a1d202ef646b69b/chunks.m3u8?is_vip=false&token=1782633022-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-1d4ac85b6fd321205f8c0f91200fc944
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Nathan Pitts VS Atakan Karahan | UTR Pro Knoxville [Server 2]
+#EXTINF:-1 group-title="WRC" tvg-logo="", EKO Acropolis Rally Greece: Stage 9 | WRC [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85945e9dbcc7646bdc/chunks.m3u8?is_vip=false&token=1782596064-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-ed0a22dd6644df196aa22f2b2197097e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1782633027-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-23b8e6d2f3e93b2838bd13012f0709c4
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gabe Avram VS Drew Fishback | UTR Pro Knoxville [Server 1]
+#EXTINF:-1 group-title="WRC" tvg-logo="", EKO Acropolis Rally Greece: Stage 9 | WRC [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ebe85945e9dbcc7646bdd/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=8b811ac1e4a7de65254d901643fd58b0&x-time=1782509640
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=069837f13e89da1c467e54a5fef465c4&x-time=1782546600
 
-#EXTINF:-1 group-title="UTR Pro Knoxville" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Gabe Avram VS Drew Fishback | UTR Pro Knoxville [Server 2]
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10209.png", Valentine VS Lambton Jaffas | Northern NSW NPL [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ebe85945e9dbcc7646bdd/chunks.m3u8?is_vip=false&token=1782596069-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-863199932d036cf92e52e2a91da3f3df
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d5/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=47e60e214889ed89dcc9cfb27eb44fa9&x-time=1782546600
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2621.png", HFX Wanderers FC VS Pacific FC | Canadian Premier League [Server 1]
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10209.png", Valentine VS Lambton Jaffas | Northern NSW NPL [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=c5bb68ac336f5a28a3d2650ca84c71c6&x-time=1782509640
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d5/chunks.m3u8?is_vip=false&token=1782633033-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-7d57c8eb72d540516e16ef43aa4db2b6
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2621.png", HFX Wanderers FC VS Pacific FC | Canadian Premier League [Server 2]
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9993.png", St George Willawong VS North Star | Queensland Premier League [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53a6/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=e22693fce06c4db4914edc550c497b5a&x-time=1782509640
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d6/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=dcc75cc7437f516f9bcd590b4510a454&x-time=1782546600
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2621.png", HFX Wanderers FC VS Pacific FC | Canadian Premier League [Server 3]
+#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9993.png", St George Willawong VS North Star | Queensland Premier League [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53a6/chunks.m3u8?is_vip=false&token=1782596074-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-ba4e7f74855220af24dcc07244479371
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53d6/chunks.m3u8?is_vip=false&token=1782633038-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-352668d627605ba0e6fff0e4b713b29d
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2621.png", HFX Wanderers FC VS Pacific FC | Canadian Premier League [Server 4]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Vicente Freda VS Nile Ung | UTR Pro Newport Beach [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53a6-fhd/chunks.m3u8?is_vip=false&token=da7f4526ede9bcee8d93b1ce84be7534146329d6&x-sign=a74d006beedd2d6280a443b40ea8723d&x-time=1782509640
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3f678d00567544415759f6/chunks.m3u8?is_vip=false&token=b90299781fe225fce4eadccfe390b94af91e283a&x-sign=d68354d49ab454fe4b5ecf03fe4847b6&x-time=1782546600
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2621.png", HFX Wanderers FC VS Pacific FC | Canadian Premier League [Server 5]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Vicente Freda VS Nile Ung | UTR Pro Newport Beach [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53a6-fhd/chunks.m3u8?is_vip=false&token=1782596075-Kv4cPTAAP5YTi-da7f4526ede9bcee8d93b1ce84be7534146329d6-f415a80f52c429b7ec3a28a0ad757238
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3f678d00567544415759f6/chunks.m3u8?is_vip=false&token=1782633046-Kv4cPTAAP5YTi-b90299781fe225fce4eadccfe390b94af91e283a-65dd729378cbad6e3f6b28a683728d3c
 
