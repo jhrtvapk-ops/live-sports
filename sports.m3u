@@ -132,6 +132,9 @@ https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?
 #EXTINF:-1 group-title="MLB" tvg-logo="", Athletics [HD SERVER]
 https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 group-title="WNBA" tvg-logo="", Toronto Tempo vs Phoenix Mercury [SportzX WNBA]
+https://chatgpt.hereisman.net/playlist/52610/load-playlist?
+
 #EXTINF:-1 group-title="WNBA" tvg-logo="", Toronto Tempo vs Phoenix Mercury [SportzX Live]
 https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?
 
@@ -321,197 +324,56 @@ https://live06.zuqiu106.com/live/79635460.m3u8
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Algeria vs Austria [SD SERVER [AR]]
 http://193.47.62.51/hls/JJJJ.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Egypt vs Iran [BBC SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52599/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Egypt vs Iran [TSN SPORTS HD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542541/d6252e90f0b04850bf3a732cdc3cc7e5/JgwF-iXffdfoe30jbmxIlBxb2Yj5F2JxNkrkl_YMMzo/tsn2-ca.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS HD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542523/49afdce5f7e3496993a1db5d8339dd08/XStPdGfE4zy3dCNX7blRTUw93HFKThiNoqKGXYVXTT4/fox-sports-1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [TOFFEE BD FHD]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782613217~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdm0p8VN5a1VjwYaIM7zc4xVpMds-AZxv0CbjeE-Z3VZBmeq_tEiiN8qFoco28Cf23h2modnnQYvi3wxWVg-4oH
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [beIN MAX FHD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542559/0c83cef047744384a7527cc67c28012a/hMYmUqmJna-4FY-2pjfrHcCH-hdCycCskUhhm6vUEIo/beinsportsmax-sa.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg885JoSWnbg.m3u8?txSecret=e0e299b2637573d27df3112284b4a242&txTime=6A3F6230
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Egypt vs Iran [UNIVERSEO HD]
-https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS 4K]
-https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FOX 4K LIVE]
-https://nhjjhhjhjjhfjj.pages.dev/1782542581/0adc1ca3c0cc48bca5115a2c10570177/TVzorvq8FH8gf1nKHx3nMzir2WNj-8Kw1FfcVCMMpgc/fox-sports-1-4k.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [FUSSBALL TV 4K]
-https://nhjjhhjhjjhfjj.pages.dev/1782542596/e653e8fc6a9445e694ce6c5a8a6dade0/oDMIPIkxTztyBq9kjsppVKJ8QYynjJ0YB9B2RZwNwd4/fusballtv2uhd-de.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ARABIC LIVE FHD]
-https://lb.xyzcloud3.xyz/bein2/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [NBC UNIVERSO FHD]
-https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [IRIB 4K]
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Egypt vs Iran [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52597/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Egypt vs Iran [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52601/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ISCREEN BD (BDIX)]
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SportzX Live]
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [TYC SPORTS HD]
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [DAZN SPANISH]
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [HD SERVER EN]
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [HD SERVER AR]
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SD SERVER [ENG]]
-http://193.47.62.47/hls/JJJJQQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ENG SERVER SD]
-http://193.47.62.42/hls/FFFFFFF.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [SD SERVER  [SWE]]
-http://193.47.62.51/hls/RFRFRF.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Egypt vs Iran [beiN SPORTS FR]
-http://193.47.62.59/hls/JJJJQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Egypt vs Iran [ESPANOL SD]
-http://193.47.62.55/hls/JJJJ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", New Zealand vs Belgium [BBC SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52600/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS HD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542347/3721be6081fc4bb9a2ac025f9a7f99aa/HbzYJRVP038shZGoU_wye4BHvv9cxLpunRgCUmTwEWo/tsn1-ca.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX SPORTS HD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542312/a1846957079e41799485afa0d1ef4e63/uXOHsxclZ2EerKm2N13bKyI8_4bf614MUB4E8sCDry0/fox-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782613215~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvci0sEQW61immPRTKFJl3Gy4VaiI-oin_WHxR4IHk6r9pFElGX0crDzvHClgDzRDwQOenUU-NlJ-C1DAy8cJoUP
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJQmD9yED1G.m3u8?txSecret=be0962eb776e2c61eda8cb6d6b26fa2b&txTime=6A3F6230
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [beIN MAX FHD]
-https://nhjjhhjhjjhfjj.pages.dev/1782542366/ac435e7650914311849509163936e75d/WAZAkRNQaAPQxxfAvT1my2j200RxBZBxqk1_7dAmJno/beinsportsmax2-sa.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", New Zealand vs Belgium [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FOX ONE 4K]
-https://lb.xyzcloud3.xyz/fox4k/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX 4K LIVE]
-https://nhjjhhjhjjhfjj.pages.dev/1782542410/81e3f7a45769483f9722659c217c932a/kXFAAoD1JjNPI5eOLIqODUK1yERYQ9Ry6_jFyZcxrTQ/fox4k-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS 4K]
-https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [FUSSBALL TV 4K]
-https://nhjjhhjhjjhfjj.pages.dev/1782542388/5b30401fff074b68bb75781ec61bfb56/fPgwkb40g5rW3MEl4Ai_ZEsm6th_k4QU6SeQoEFmsng/fusballtv1uhd-de.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [TELEMUNDO FHD]
-https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [IRIB 4K]
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", New Zealand vs Belgium [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52602/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", New Zealand vs Belgium [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52598/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SportzX Live]
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [HD SERVER ENG]
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [HD SERVER AR]
-https://edge2caster.pro/hls/sqdahach1ax.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [DAZN SPANISH]
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SD SERVER [ENG]]
-http://193.47.62.47/hls/GOOO.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [ENG SERVER SD]
-http://193.47.62.42/hls/UIIII.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [SD SERVER [SWE]]
-http://193.47.62.51/hls/RFRFRF.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", New Zealand vs Belgium [beiN SPORTS FR]
-http://193.47.62.59/hls/RFRFRFQQ.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", New Zealand vs Belgium [ESPANOL SD]
-http://193.47.62.51/hls/RFRFRFQQX.m3u8?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Panama vs England [BBC SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52528/load-playlist?
-
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FOX ONE HD]
-https://vildid.hundredmilesperhour.uk/1782438863/fb3ef9b40e9940f6aef39374b5efface/ZqnARoKa63CfoZp7oIkDL8oY3U9RtND9eyFxx3umV_I/fox-usa.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Panama vs England [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52621/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782514813~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvd-DWx2VEtBdldcZtAf1cPwM6bwFQTpElb46GgHH5mkLFexkHIW79_fKfgMcNPQD7Skus2NEg75EZUfQiQUTkkD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FOX ONE HD]
+https://nhjjhhjhjjhfjj.pages.dev/1782601830/0d1ba7d2a931430a9811b5431f45cfc5/PPfcMBa776gvmwhFFJjlWZRmM1-ZOPfOKR-mqCUnSqs/fox-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [TSN SPORTS HD]
+https://lb.xyzcloud3.xyz/tsn1/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8YFbNibsHY.m3u8?txSecret=175fe9323ecdf2b2493959aa4149e1b5&txTime=6A3DDF78
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8pgdxbDMCS.m3u8?txSecret=8600bc9d2bccb7bac5bf4790ed7dd56d&txTime=6A405D70
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [beIN MAX FHD]
-https://vildid.hundredmilesperhour.uk/1782438463/a8e1b7c8611145b18ab13bee1f96a9cb/HISXZq9PvJMsd3zSgNJWtMz7ms1JELbGt2DTnxXTbUg/beinsportsmax3-sa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782601877/756dff3bf63242728900fab86ae5869e/CKNBZ7vok8P-_PEHmlLVipFRTbmgvi5xv8gU0s2IS38/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Panama vs England [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [TELEMUNDO FHD]
-https://vildid.hundredmilesperhour.uk/1782438829/7d3553a93d164dfb8f72a7b27fcae3b7/Xs66BScLOJsKCMEWuPMy89f2bzvt36zRKHw_fkMv6f8/peacock-1.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FOX ONE 4K]
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FOX 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782438913/f0b375581bde457688c17009ba3d7624/z8sQmWh1O1liXJUyfZbMmHQ4XemAtvmtrngqGtnzeEM/fox4k-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782601902/cbff9de94908431dbfabaf8b5fd918f1/-LWNr-pBIqQc9vTvCwn5B8wm-vO81nDw_ykIjuypWkM/fox4k-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [TSN SPORTS 4K]
+https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [TELEMUNDO FHD]
+https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [FUSSBALL 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782439334/0a35a19494c34d348c26118c132f026a/gYPAiYEkQeEgeX2i5oNC57Pj-yOxja23o9Nf7FO1Wgc/fusballtv1uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782601955/18e0b7d861384a4ba4baaf444bbd61c5/bpgtebVHIDYI1gbSarYPxKf8_9tCMoc1jtPiHUbELMI/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg", Panama vs England [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52535/load-playlist?
+https://chatgpt.hereisman.net/playlist/52620/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Panama vs England [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52535/load-playlist?
+https://chatgpt.hereisman.net/playlist/52621/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [SportzX Live]
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [HD SERVER ENG]
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [HD SERVER AR]
 https://mainstreams.pro/hls/sqdahach1ax.m3u8?
@@ -526,109 +388,127 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [SD SERVER [ENG]]
-http://193.47.62.55/hls/TKKKQQQ.m3u8?
+http://193.47.62.42/hls/fllll.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [ENG SERVER SD]
-http://193.47.62.51/hls/TKKKQQQQ.m3u8?
+http://193.47.62.59/hls/JCCCC.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [SD SERVER [SWE]]
-http://193.47.62.51/hls/TKKK.m3u8?
+http://193.47.62.47/hls/skkkkq.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Panama vs England [beiN SPORTS FR]
-http://193.47.62.51/hls/TKKKQ.m3u8?
+http://193.47.62.59/hls/skkkk.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Panama vs England [ESPANOL SD]
-http://193.47.62.59/hls/TKKKQQ.m3u8?
+http://193.47.62.51/hls/skkkkqq.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Croatia vs Ghana [BBC SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52512/load-playlist?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Croatia vs Ghana [ITV SPORTS HD]
+https://chatgpt.hereisman.net/playlist/52619/load-playlist?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [QAZ SPORTS FHD]
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782514811~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdvL_PjGFeThAVTHraP9Q20oPF62oe84s8FGex4JXmSKJjEBd3PCcPFlDLtkSRF2HsCmPv9Ic8wmXhuIaNbIW4G
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782678009~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdK-gniQODEhQ4zvjaDvsWHvk58YEf1Z3Ug2I5cK6hq-bbG5LcJqGla1xd4LacJ6lDfzb2zzxtXTwZVTS362r4D
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [beIN MAX FHD]
+https://nhjjhhjhjjhfjj.pages.dev/1782602036/7dfc1555ca3d45d09ede3a9a654f2ae9/7VYDUWeDO-BC25JdXG9yPmv589Y4p9cxmusXYK2QhNM/beinsportsmax2-sa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FOX ONE HD]
-https://vildid.hundredmilesperhour.uk/1782438789/89da594853cd4bb48e26b9626400a591/TTK-0juRUx3pgEQBg5vDSD_gfmpFS4fgbyjefk9-v0U/fox-sports-1.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782601975/160215f410d74cc59788ee9cf9af7955/IV_PGJeB9Fa1s1-MhhmH6rQiKDn8N3540z-B4NcEpEA/fox-sports-1.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [TSN SPORTS HD]
+https://lb.xyzcloud3.xyz/tsn2/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgntZtAEfJWr.m3u8?txSecret=ab71be98cd0c6b8ffc6c54ee267fe974&txTime=6A3DDF78
+https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTXRLR5W18i.m3u8?txSecret=dc2913944c4b31f9bbc0c6c84eea1bbe&txTime=6A405D70
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [TELEMUNDO HD]
-https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [UNIVERSEO HD]
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [ISCREEN BDIX (BD)]
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FOX SPORTS 4K]
+https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FOX 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782438596/bf438c10f1fb4a6391f5c6b7951d5f86/leaAgZXWPwl5mV8lnNbmWCj9smNuj5A4n8xA_7f_E7U/fox-sports-1-4k.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782602000/e7652bd4c66c463881a72f2d759c92c7/igC-o6M5N59CJrj5SlJG8Pn6C30WjrcTkQJwyrfUSm0/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [UNIVERSO FHD]
+https://nhjjhhjhjjhfjj.pages.dev/1782602061/3986ef0419624e2f90f409c7e5a75b23/dbWvKLbaozu8y6XIBJXx6Ll2ryAHk2NskU_t4xP5TWs/universo-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FUSSBALL TV 4K]
-https://vildid.hundredmilesperhour.uk/1782439396/885dac980c604151883e4d1675dc4ed9/yNhl_GZo1S5d5g9PMtX0o0znRyfKGeDntQ6ioSab3oM/fusballtv2uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782602051/562f1940283b4d15a6d7833dc82e64fc/_C6F5nvfDjwHAHcH528h_4orYqWqWNzVU149pbhQXzs/fusballtv2uhd-de.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [ARABIC LIVE FHD]
-https://vildid.hundredmilesperhour.uk/1782439441/a923c3920b9d4501a33c3ead9ce6bc18/p9HlR2l6amDgoB1Ufuen6PJkFj2AiPtwmJH05jf-y1E/beinsportsmax3-sa.m3u8
+https://lb.xyzcloud3.xyz/bein2/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [FOX SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52512/load-playlist?
+https://chatgpt.hereisman.net/playlist/52619/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [TSN SPORTS HD]
-https://chatgpt.hereisman.net/playlist/52534/load-playlist?
+https://chatgpt.hereisman.net/playlist/52619/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [SportzX Live]
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [HD SERVER ENG]
 https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [HD SERVER AR]
-https://mainstreams.pro/hls/sqdahach1ax.m3u8?
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [DAZN SPANISH]
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [SD SERVER [ENG]]
-http://193.47.62.51/hls/QTKKKQQQ.m3u8?
+http://193.47.62.59/hls/DIIIII.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [ENG SD SERVER]
-http://193.47.62.55/hls/QTKKKQQQQ.m3u8?
+http://193.47.62.47/hls/KRRRR.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [SD SERVER [SWE]]
-http://193.47.62.47/hls/QTKKK.m3u8?
+http://193.47.62.51/hls/CMMMM.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Croatia vs Ghana [beiN SPORTS FR]
-http://193.47.62.59/hls/QTKKKQ.m3u8?
+http://193.47.62.59/hls/HCCCCE.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Croatia vs Ghana [ESPANOL SD]
-?
+https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png", Colombia vs Portugal [FOX SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png", Colombia vs Portugal [BBC SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52543/load-playlist?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [QAZ SPORTS FHD]
-https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782519618~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfN4Y1NYhyrwFCFgE0T7hX5WO1uN80Lyhc9CuiwwIMRBVN_Q9810SfDFscxWpcR8Z5SpxGrDdE2N4OoB9vHwH0I
+ok
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [TSN SPORTS HD]
+https://lb.xyzcloud3.xyz/tsn1/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FOX ONE HD]
-https://vildid.hundredmilesperhour.uk/1782452490/2240ea7168dc4d1584a25def3b1341a2/C2qQqDaUVESGwneaOs-41v2hqA6Mr_hJZAtKa8ggOrE/fox-sports-1.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgHnYqjnBUiJ.m3u8?txSecret=c6cb1c95fa4e6e7cad7a29e73ed815fa&txTime=6A3E00C0
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png", Colombia vs Portugal [TELEMUNDO HD]
 https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [PEACOCK FHD [ALT]]
+ok
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FOX ONE 4K]
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8?
+
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FOX 4K LIVE]
-https://vildid.hundredmilesperhour.uk/1782452610/0a996302c91041faad6539d18653e3c6/fn_ma4_WDY7b3JiRAyzP1RnInxl7cPXX9-rbMJAUAzk/fox-sports-1-4k.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [FUSSBALL TV UHD]
-https://vildid.hundredmilesperhour.uk/1782452724/6bcd2069aad0426c8b0b96fed6e7a0e7/ZI_WLfKEOvqkMF68RzIdP7UA9YrvNTcupIJ8BVPRBZ4/fusballtv2uhd-de.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ARABIC LIVE FHD]
-https://vildid.hundredmilesperhour.uk/1782452637/3fa559c11dcd44839ac89eb6dd7f67b1/8tLuv0TCiG7IuLp0mNcX0KYvJ5dskLisfdM5ptR247w/beinsportsmax-sa.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
@@ -649,49 +529,61 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [HD SERVER ENG]
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [HD SERVER AR]
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [SD SERVER [ENG]]
-http://193.47.62.42/hls/QTKKKQQQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ENG SD SERVER]
-http://193.47.62.55/hls/QTKKKQQQQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [SD SERVER [SWE]]
-http://193.47.62.55/hls/TKKK.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Colombia vs Portugal [beiN SPORTS FR]
-http://193.47.62.55/hls/QTKKKQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", Colombia vs Portugal [ESPANOL SD]
-http://193.47.62.47/hls/QTKKKQQ.m3u8?
+?
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", DR Congo vs Uzbekistan [ITV SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png", DR Congo vs Uzbekistan [BBC SPORTS HD]
 https://chatgpt.hereisman.net/playlist/52544/load-playlist?
 
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg", DR Congo vs Uzbekistan [QAZ SPORTS FHD]
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [TOFFE BDIX (BD)]
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782519616~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvevi58vT5nOZBuhzytXG0MeqvotuD7Yj-Ly013wDwYtHwipa0XoSgSsoYfhY18DNmdOaQey1j1SiF3ngKQjjfQL
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX ONE HD]
-https://vildid.hundredmilesperhour.uk/1782452332/02e79a35f6a4498b83c7b41153316edc/Cp77oBBGp5gb0qsxA0SQfww1hyYnV5odTGf6k5jUdJA/fox-usa.m3u8
+ok
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [TSN SPORTS HD]
+https://lb.xyzcloud3.xyz/tsn2/index.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FAST SERVER]
-https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHRwmiHgPtqU.m3u8?txSecret=5be5bfd9583645ca79a4d9f34ca4ce76&txTime=6A3E00C0
+ok
 
-#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [NBC SPORTS HD]
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [UNIVERSEO HD]
 https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [PEACOCK FHD [ALT]]
+ok
+
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX SPORTS 4K]
-https://vildid.hundredmilesperhour.uk/1782452358/ce969ca7a80543d6add57b5180d00aba/AWpy2NWfKgNI2ARKjT1aJY9EnwsZSzgINyD8mxWemvE/fox4k-usa.m3u8
+https://lb.xyzcloud3.xyz/fs14k/index.m3u8?
+
+#EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FOX 4K LIVE]
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [FUSSBALL TV UHD]
-https://vildid.hundredmilesperhour.uk/1782452439/410c13c271ea4b8c8d175145357d5d6f/_oBi9nw0KhKTP2EklRZCyNdBpfn9PSiCKmY1a0DEh9o/fusballtv1uhd-de.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [ARABIC LIVE FHD]
-https://vildid.hundredmilesperhour.uk/1782452412/67eef1038dee44c1a116059e66588bb8/gY1OCNQo72Gkt8RBD6LmoIL2NDQ3gzkUMrjDlKdomxU/beinsportsmax-sa.m3u8
+ok
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [IRIB 4K]
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
@@ -703,13 +595,13 @@ https://chatgpt.hereisman.net/playlist/52547/load-playlist?
 https://chatgpt.hereisman.net/playlist/52539/load-playlist?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SportzX Live]
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [HD SERVER ENG]
 https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [HD SERVER AR]
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [DAZN SPANISH]
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
@@ -718,16 +610,16 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SD SERVER [ENG]]
-http://193.47.62.55/hls/TKKKQQQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [ENG SERVER SD]
-http://193.47.62.42/hls/TKKKQQQQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", DR Congo vs Uzbekistan [beIN SPORTS FR]
-http://193.47.62.47/hls/TKKKQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [D SPORTS ES]
-http://193.47.62.55/hls/TKKKQQ.m3u8?
+?
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="", DR Congo vs Uzbekistan [SD SERVER [CN]]
 https://live06.zuqiu106.com/live/79635460.m3u8
@@ -759,11 +651,17 @@ https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?
 #EXTINF:-1 group-title="MLB" tvg-logo="", Detroit Tigers vs Houston Astros [HD SERVER]
 https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 group-title="MLB" tvg-logo="", Blue Jays vs Texas Rangers [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52612/load-playlist?
+
 #EXTINF:-1 group-title="MLB" tvg-logo="", Blue Jays vs Texas Rangers [SportzX Live]
 https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?
 
 #EXTINF:-1 group-title="MLB" tvg-logo="", Blue Jays vs Texas Rangers [HD SERVER]
 https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", Pirates vs Cincinnati Reds [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52613/load-playlist?
 
 #EXTINF:-1 group-title="MLB" tvg-logo="", Pirates vs Cincinnati Reds [SportzX Live]
 https://mainstreams.pro/hls/Czajafjihafch18.m3u8?
@@ -771,11 +669,17 @@ https://mainstreams.pro/hls/Czajafjihafch18.m3u8?
 #EXTINF:-1 group-title="MLB" tvg-logo="", Pirates vs Cincinnati Reds [HD SERVER]
 https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 group-title="MLB" tvg-logo="", White Sox vs Kansas City Royals [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52615/load-playlist?
+
 #EXTINF:-1 group-title="MLB" tvg-logo="", White Sox vs Kansas City Royals [SportzX Live]
 https://mainstreams.pro/hls/jkzahzadach20.m3u8?
 
 #EXTINF:-1 group-title="MLB" tvg-logo="", White Sox vs Kansas City Royals [HD SERVER]
 https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="MLB" tvg-logo="", New York Mets vs Phillies [SportzX MLB]
+https://chatgpt.hereisman.net/playlist/52617/load-playlist?
 
 #EXTINF:-1 group-title="MLB" tvg-logo="", New York Mets vs Phillies [SportzX Live]
 https://edgestreams.pro/hls/bzagLHzach19.m3u8?
@@ -807,313 +711,513 @@ https://mainstreams.pro/hls/fskjanach24.m3u8?
 #EXTINF:-1 group-title="MLB" tvg-logo="", Brewers vs Chicago Cubs [HD SERVER]
 https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2249.png", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=1fe7721c7bc794aebc7325a071396463&x-time=1782581460
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782682296-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-b0bfc6d147a3f2bbc83546e07b104e5c
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2249.png", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=1782667891-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-cf3f117abb76e4b9eebcb1bfa77b5c9d
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=37890224ff3b98f01a9b8796a290d2d9&x-time=1782595860
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22213.png", WSPG Wels VS Lask Linz | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 3]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b143/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=73a9b70a6bd2872ed769254215c9d1a0&x-time=1782581460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=112cb6f9f6ee319001cad97acd5c808b&x-time=1782595860
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22213.png", WSPG Wels VS Lask Linz | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 4]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b143/chunks.m3u8?is_vip=false&token=1782667896-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-cfeb763ce9ec01a88323aeb1a0b178ec
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4/chunks.m3u8?is_vip=false&token=1782682298-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-b292681086aad91d3bb0ffe5dce082de
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2257.png", Dunajska Streda VS TSC Backa Topola | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 5]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b146/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=4800291ceb6a323ff0908a33de3ca630&x-time=1782581460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-hd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=5cffec187c9edc53aa2bee35d5d7b89b&x-time=1782595860
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2257.png", Dunajska Streda VS TSC Backa Topola | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 6]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b146/chunks.m3u8?is_vip=false&token=1782667901-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-b5652b3dc75571165ae2bedcecd8af5a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-hd/chunks.m3u8?is_vip=false&token=1782682299-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-f06c65726d3c3e5f4149e6a879415bbc
 
-#EXTINF:-1 group-title="Baseball" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/6fea83e9ecbca1f96bae1aa859dd79e4.png", New York Yankees VS Boston Red Sox | MLB [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 7]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=f9d21324472dff86bdb9cd0822e902fc&x-time=1782581460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-cnhd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=175979720e0dc13596cd4202118d9328&x-time=1782595860
 
-#EXTINF:-1 group-title="Baseball" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/511cf22988a0edbe875cdc64bc441ae0.png", Houston Astros VS Detroit Tigers | MLB [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=a06fff9ab9210bae4a42d384c0190f9d&x-time=1782581460
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-cnhd/chunks.m3u8?is_vip=false&token=1782682299-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-00528f83d920ea0d07a28a741d35df16
 
-#EXTINF:-1 group-title="M15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Branko Djuric VS Andrea De Marchi | M15 Kursumlijska Banja [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 9]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fcaed4bb3db0c4b7bf/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=4812035a765207653d11d9affc127d38&x-time=1782581460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-cnhd2/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=8b1c83af16254a789ad90cd037cca112&x-time=1782595860
 
-#EXTINF:-1 group-title="M15 Kursumlijska Banja" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Branko Djuric VS Andrea De Marchi | M15 Kursumlijska Banja [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 10]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fcaed4bb3db0c4b7bf/chunks.m3u8?is_vip=false&token=1782667914-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-eb9113272a6279995f951a9ec40061be
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-cnhd2/chunks.m3u8?is_vip=false&token=1782682300-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-05a1f38d5733b58bf745d8ef838dc959
 
-#EXTINF:-1 group-title="M15 Kayseri" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Keshav Chopra VS Rethin Pranav Senthil Kumar | M15 Kayseri [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 11]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fc00567544415b68a6/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=e021193ce26dc5c3e97616ef3ec89735&x-time=1782581460
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-fhd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=36859b94e9d299460dacfa7b7d20aa51&x-time=1782595860
 
-#EXTINF:-1 group-title="M15 Kayseri" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Keshav Chopra VS Rethin Pranav Senthil Kumar | M15 Kayseri [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png", Croatia VS Ghana | World Cup [Server 12]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fc00567544415b68a6/chunks.m3u8?is_vip=false&token=1782667918-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-763844759be9e1eda74d38d5a6287b00
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f4-fhd/chunks.m3u8?is_vip=false&token=1782682301-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-070142e1e7e0518dc644ecdfc4d2006e
 
-#EXTINF:-1 group-title="W15 Galati" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Giulia Safina Popa VS Chiara Fornasieri | W15 Galati [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fcf65afa224ed11621/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=1f80525d7dab18d3814b5366b263ba97&x-time=1782581520
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782682305-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-daa24e9dcecd8f806bd4807995bd53df
 
-#EXTINF:-1 group-title="W15 Galati" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Giulia Safina Popa VS Chiara Fornasieri | W15 Galati [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fcf65afa224ed11621/chunks.m3u8?is_vip=false&token=1782667923-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-67a3722abfeb4b5ffb7c8eada6905a2c
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=8fb8ffd51fa8caf5b6224f07078a3cf4&x-time=1782595860
 
-#EXTINF:-1 group-title="Super Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3499.png", Dila VS Torpedo Kutaisi | Super Cup [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 3]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3fc95ed7f718fae4f824dd/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=c95ad5397d73b82bf3524b8ecb3c1de8&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=ad93f66a65f1c8d4d3ec49e96c306bc8&x-time=1782595860
 
-#EXTINF:-1 group-title="Super Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3499.png", Dila VS Torpedo Kutaisi | Super Cup [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 4]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3fc95ed7f718fae4f824dd/chunks.m3u8?is_vip=false&token=1782667928-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-e3d572fff89bdeb1fd342f292f873ac7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5/chunks.m3u8?is_vip=false&token=1782682307-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-955a343be639989240f431701f6afb6b
 
-#EXTINF:-1 group-title="Super Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/691.png", Milsami Orhei VS Zimbru | Super Liga [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 5]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a4/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=1c2e05dc3993c9fac803412bae1855f3&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-hd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=befa9b46347bbc6b547507c4066b81fe&x-time=1782595860
 
-#EXTINF:-1 group-title="Super Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/691.png", Milsami Orhei VS Zimbru | Super Liga [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 6]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a4/chunks.m3u8?is_vip=false&token=1782667933-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-adc0fba8a9e5f260ab79500d1e0f5739
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-hd/chunks.m3u8?is_vip=false&token=1782682307-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-1a625f1a7071fc49623453fa1ed59037
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5914.png", Rochefort VS Patro Eisden | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 7]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b145/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=f3aa4d2bd57ea4009510c5a2eb3557cd&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-cnhd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=d51d056918a6f670ac470084a91e698b&x-time=1782595860
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5914.png", Rochefort VS Patro Eisden | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b145/chunks.m3u8?is_vip=false&token=1782667937-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-1f0cbf1548c0e84681add2cd206e28b0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-cnhd/chunks.m3u8?is_vip=false&token=1782682308-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-9be77b4be62a010f4983cf994c4c461e
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5871.png", Merelbeke VS Gent | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 9]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b144/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=08ae58dc3a31b2572acc71bde6ef9db6&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-cnhd2/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=75078f5490e47b544035dfd886db5c23&x-time=1782595860
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5871.png", Merelbeke VS Gent | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 10]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b144/chunks.m3u8?is_vip=false&token=1782667942-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-2325058e4fa424d38827b88c850519f2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-cnhd2/chunks.m3u8?is_vip=false&token=1782682309-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-fe0f78faaaec755a07da080fa4d9d5d3
 
-#EXTINF:-1 group-title="1. Division" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18857.png", Uni Minsk VS Niva | 1. Division [Server 1]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 11]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a44/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=595c78d8b58ba5d2d54bffa0b5bc3482&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-fhd/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=d5add025d0c25246b0c80fe671d5a718&x-time=1782595860
 
-#EXTINF:-1 group-title="1. Division" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18857.png", Uni Minsk VS Niva | 1. Division [Server 2]
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png", Panama VS England | World Cup [Server 12]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a44/chunks.m3u8?is_vip=false&token=1782667947-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-88fb6148934206d614be40954aeec9a9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f5-fhd/chunks.m3u8?is_vip=false&token=1782682310-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-2922dd181b7282ced8839c56347bc300
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2255.png", Ujpest VS Universitatea Cluj | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jacopo Bilardo VS Mathys Erhard | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae6/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=245c63c6b840a2a90071c0563a620819&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e154b4d858b85a7128e/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=6b740ee0d258f33b1bf91721b85a18e0&x-time=1782595860
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2255.png", Ujpest VS Universitatea Cluj | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Jacopo Bilardo VS Mathys Erhard | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae6/chunks.m3u8?is_vip=false&token=1782667952-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-0fa08fd59b1401aaccbc86a1fcc99162
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e154b4d858b85a7128e/chunks.m3u8?is_vip=false&token=1782682315-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-8bbb67e9c791224479d780119e89a527
 
-#EXTINF:-1 group-title="UTR Pro Budapest" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Darius Florin Pop VS Marcell Bartakovics | UTR Pro Budapest [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Niccolo Ciavarella VS Georgii Kravchenko | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fe63a32c497f673491d19/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=f3b9c5d4d512505672e21b3448dfeac4&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec3/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=73b1dbd2a25166227794258ed11573dd&x-time=1782595860
 
-#EXTINF:-1 group-title="UTR Pro Budapest" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Darius Florin Pop VS Marcell Bartakovics | UTR Pro Budapest [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Niccolo Ciavarella VS Georgii Kravchenko | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fe63a32c497f673491d19/chunks.m3u8?is_vip=false&token=1782667957-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-925aee7042bfbda738a0536a2285ee5d
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec3/chunks.m3u8?is_vip=false&token=1782682320-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-8bcf6242acfcc3583c8e43ff03f1720a
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/201.png", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Stefan Adrian Andreescu VS Sebastian Gima | Challenger Brasov [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=12b5f7e86081605cf3411c9f30d64934&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e152eb310ffd1c08029/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=088101ab97a036f0656c75b8ab6c4b04&x-time=1782595920
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/201.png", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Stefan Adrian Andreescu VS Sebastian Gima | Challenger Brasov [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=1782667961-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-18ac81a11df7bf5537c1791b5780c311
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e152eb310ffd1c08029/chunks.m3u8?is_vip=false&token=1782682326-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-29d0f192ebceb0cc6d0864a089157a7c
 
-#EXTINF:-1 group-title="Challenger Brasov MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Dev/Sinha VS Cornea/Cukierman | Challenger Brasov MD [Server 1]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Dimitar Kuzmanov VS Nitin Kumar Sinha | Challenger Brasov [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fe63a8cf753005748314f/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=d88525db1c5ee6e8a7a499e15c328a01&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e158cb9e8c43bfc1a47/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=67ba8cdc83b6832d7d672b55c4c937f8&x-time=1782595920
 
-#EXTINF:-1 group-title="Challenger Brasov MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Dev/Sinha VS Cornea/Cukierman | Challenger Brasov MD [Server 2]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Dimitar Kuzmanov VS Nitin Kumar Sinha | Challenger Brasov [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fe63a8cf753005748314f/chunks.m3u8?is_vip=false&token=1782667966-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-4251f0cbe311b6cd54866fa7ffd5b381
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e158cb9e8c43bfc1a47/chunks.m3u8?is_vip=false&token=1782682331-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-5e4255f2fddfd3f4e6f7e352075a995c
 
-#EXTINF:-1 group-title="Primera C" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1942.png", Sacachispas VS Lugano | Primera C [Server 1]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Radu Albot VS Stefan Latinov | Challenger Brasov [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=dfab1de24f72b413f720b8b468a213e1&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eef/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=c4d9ffe90cec0c23ca92f572209bba9d&x-time=1782595920
 
-#EXTINF:-1 group-title="Primera C" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1942.png", Sacachispas VS Lugano | Primera C [Server 2]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Radu Albot VS Stefan Latinov | Challenger Brasov [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=1782667971-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-df3446daf9d74f75b33704da022665af
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eef/chunks.m3u8?is_vip=false&token=1782682336-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-a74723b8a91dac1b24e1f95c58c21c49
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6274.png", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Sergey Fomin VS Mircea-Alexandru Jecan | Challenger Brasov [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=2242ad67a8ae0b3d9368ecc72b3ed8ff&x-time=1782581520
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec4/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=5696ff92263fc30d58d99cb461428c10&x-time=1782595920
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6274.png", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Sergey Fomin VS Mircea-Alexandru Jecan | Challenger Brasov [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=1782667975-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-14d5c38607f7b287962bdc3efd3adb87
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec4/chunks.m3u8?is_vip=false&token=1782682341-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-1c27c108e2cd03bbeb4cd38102df0644
 
-#EXTINF:-1 group-title="1. Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25785.png", Riga Mariners VS Mārupe | 1. Liga [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Oskari Paldanius VS Daniel Masur | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=71b18f9662513a126d0b847b967a5320&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec5/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=8b4411a7785bdbf05bd99aecb0ae9ff7&x-time=1782595920
 
-#EXTINF:-1 group-title="1. Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25785.png", Riga Mariners VS Mārupe | 1. Liga [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Oskari Paldanius VS Daniel Masur | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=1782667980-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-73ea1acf918ca07f8456dddefc1f8b7e
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15a536306159885ec5/chunks.m3u8?is_vip=false&token=1782682346-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-0a32a4a381477a4b82d6930b0b5310a4
 
-#EXTINF:-1 group-title="Supreme Division Women" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23214.png", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Oriol Roca Batalla VS Samuele Seghetti | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=dd38176f5a0967328a94da3be072233f&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0c8/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=1da07ed5e87dd140b0f3a08e5b128f7a&x-time=1782595920
 
-#EXTINF:-1 group-title="Supreme Division Women" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23214.png", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Oriol Roca Batalla VS Samuele Seghetti | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=1782667985-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-fc2c3457b7541298cccc72f20d8e4e22
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0c8/chunks.m3u8?is_vip=false&token=1782682352-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-11056fca3f1ccaf4dfcd149e63751cee
 
-#EXTINF:-1 group-title="Second League - Group 3" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6829.png", Strogino VS Kvant | Second League - Group 3 [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Francesco Forti VS Fausto Tabacco | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=f9d786bfaf5e942b6cc785ec49421cbe&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0c9/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=6ad4bb5e191e357e6d1c40db96d7fa6a&x-time=1782595920
 
-#EXTINF:-1 group-title="Second League - Group 3" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6829.png", Strogino VS Kvant | Second League - Group 3 [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Francesco Forti VS Fausto Tabacco | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=1782667990-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-3e17c4619b33e79aaf2cc15fc183f6c5
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0c9/chunks.m3u8?is_vip=false&token=1782682357-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-8e27c7cbe9543f8c7a539cc53e67b3ed
 
-#EXTINF:-1 group-title="Veikkausliiga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2082.png", Gnistan VS VPS | Veikkausliiga [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Daniele Rapagnetta VS Vadym Ursu | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=83bf64de8dcb47a5fd55319d6a049989&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0ca/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=fb0a52b40b9861494a6b2b4fe8aac8be&x-time=1782595920
 
-#EXTINF:-1 group-title="Veikkausliiga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2082.png", Gnistan VS VPS | Veikkausliiga [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Daniele Rapagnetta VS Vadym Ursu | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=1782667994-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-b8fbbc64c157279546a8627bd23bc378
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15945e9dbcc779d0ca/chunks.m3u8?is_vip=false&token=1782682362-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-1c66a479eaa7fc6529dd1b86f5f59656
 
-#EXTINF:-1 group-title="Veikkausliiga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1168.png", Turku PS VS FF Jaro | Veikkausliiga [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Enrico Dalla Valle VS Federico Arnaboldi | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=59853daa967a3830f4ab48b2c0ce6cfb&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eee/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=88ca451caa095368765fe0bd6d17c71d&x-time=1782595920
 
-#EXTINF:-1 group-title="Veikkausliiga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1168.png", Turku PS VS FF Jaro | Veikkausliiga [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Enrico Dalla Valle VS Federico Arnaboldi | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=1782667999-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-af073845cee9c0fcfad5803c36b7a2ef
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eee/chunks.m3u8?is_vip=false&token=1782682368-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-4fde528cb6431f956aa04bc6fd65fa22
 
-#EXTINF:-1 group-title="1. Division" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/324.png", Stromsgodset VS ODD Ballklubb | 1. Division [Server 1]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Giuseppe La Vela VS Petr Nesterov | Challenger Milan [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=05a65f1885b72c5863e3719059c2e004&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e156618c8c6841997d0/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=181514f1340c4ce21c829932ed227421&x-time=1782595920
 
-#EXTINF:-1 group-title="1. Division" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/324.png", Stromsgodset VS ODD Ballklubb | 1. Division [Server 2]
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Giuseppe La Vela VS Petr Nesterov | Challenger Milan [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=1782668004-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-2ff8840eb26472ee37715c522cea149e
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e156618c8c6841997d0/chunks.m3u8?is_vip=false&token=1782682373-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-6f19bc1806c8ddb4ff9b66f026281a3b
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5931.png", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="MLB" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/58d6c960d71b45999c86838183446837.png", Cincinnati Reds VS Pittsburgh Pirates | MLB [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=ba321295a7f07c4f6fdc656d6edbc4c0&x-time=1782581580
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=cdd62568c5c0b5d46663b6f63f8c9106&x-time=1782595920
 
-#EXTINF:-1 group-title="Friendlies Clubs" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5931.png", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="MLB" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/551c0b9fad0eda5a52ea8d7ee0621fd1.png", Kansas City Royals VS Chicago White Sox | MLB [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=1782668008-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-429a41af233aec627895641ec9f4a296
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=9124227f256e0a70c8047366cc5d7e63&x-time=1782595980
 
-#EXTINF:-1 group-title="WRC" tvg-logo="", EKO Acropolis Rally Greece: Stage 13 | WRC [Server 1]
+#EXTINF:-1 group-title="MLB" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/d0da2572dd1c88c6d789db080e89b808.png", Philadelphia Phillies VS New York Mets | MLB [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/323/720p/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=ee018d34f7f5b044b15136a85ef950f4&x-time=1782581580
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=44bf4fe1fb757f88d4e508686be312f8&x-time=1782595980
 
-#EXTINF:-1 group-title="UFC FIGHT NIGHT" tvg-logo="", FIZIEV VS TORRES | UFC FIGHT NIGHT [Server 1]
+#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png", Sporting Cristal VS Union Comercio | Copa De La Liga [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=f42ab5c90e48b6bebd4374bdc3371a60&x-time=1782581580
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1d/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=687381f43c6e3b3aeebba816e0c1d699&x-time=1782595980
 
-#EXTINF:-1 group-title="Primera B Metropolitana" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2422.png", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 1]
+#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png", Sporting Cristal VS Union Comercio | Copa De La Liga [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=c43175057d0e40c50d9dc3331312cfb8&x-time=1782581580
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1d/chunks.m3u8?is_vip=false&token=1782682391-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-ca431d792c6eef63521f8cc8e7fcd994
 
-#EXTINF:-1 group-title="Primera B Metropolitana" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2422.png", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 2]
+#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10494.png", Comerciantes VS Estudiantil CNI | Copa De La Liga [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=1782668021-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-26d9bf84554d70524c397bbda1778fd4
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1e/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=19dc4d5cbb953c78f60997fe3686469e&x-time=1782595980
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/394.png", Dinamo Minsk VS FC Vitebsk | Premier League [Server 1]
+#EXTINF:-1 group-title="Copa De La Liga" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10494.png", Comerciantes VS Estudiantil CNI | Copa De La Liga [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3f/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=254c2aa180982def7059a7497dda5971&x-time=1782581580
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1e/chunks.m3u8?is_vip=false&token=1782682397-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-b12a549800d719095837d9dadeb273ca
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/394.png", Dinamo Minsk VS FC Vitebsk | Premier League [Server 2]
+#EXTINF:-1 group-title="USL League Two" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21288.png", Rochester VS Rockford Raptors | USL League Two [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3f/chunks.m3u8?is_vip=false&token=1782668026-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-8e608f145c7e8425a24e5eca870078bd
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5b7/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=8f4bc1c842e4257591997833945b47cb&x-time=1782595980
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3716.png", Karviná VS Polonia Bytom | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="USL League Two" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21288.png", Rochester VS Rockford Raptors | USL League Two [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=782914f830ce2923e5dff324feb7b682&x-time=1782581580
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5b7/chunks.m3u8?is_vip=false&token=1782682402-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-238d000a000f4df0b0097fdd9359cdb4
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3716.png", Karviná VS Polonia Bytom | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Vicente Freda VS George Hakopian | UTR Pro Newport Beach [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=1782668030-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-4fa600214114f88731e5f2449afa3563
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402c18bb875b4ddf275ce4/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=6fffafb3e9ec7723f29e5f83982d93e5&x-time=1782595980
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/853.png", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Vicente Freda VS George Hakopian | UTR Pro Newport Beach [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=134fb68463fd9c63109feee1b3f70e56&x-time=1782581580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402c18bb875b4ddf275ce4/chunks.m3u8?is_vip=false&token=1782682407-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-1a64afa68f620a90f85ab52a6a5eadb8
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/853.png", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 2]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Xavier Calvelo VS Robert Yang | UTR Pro Newport Beach [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=1782668035-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-09247926ff4ef9d2cb2752458565d3a0
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402c1857b14e876d54ebb1/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=2c9b41eb42817c2378b07bc4ad2dc3a0&x-time=1782595980
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2203.png", Americano Campos VS CFRJ / Maricá | Carioca A2 [Server 1]
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Xavier Calvelo VS Robert Yang | UTR Pro Newport Beach [Server 2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a8/chunks.m3u8?is_vip=false&token=40a9c54897dd2b689959476dce7b0341c1e9ebee&x-sign=bf82098591e4ae611b1eae73c02100cd&x-time=1782581580
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402c1857b14e876d54ebb1/chunks.m3u8?is_vip=false&token=1782682412-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-591b52550bd4dfcd7871c4982e6a7db4
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2203.png", Americano Campos VS CFRJ / Maricá | Carioca A2 [Server 2]
+#EXTINF:-1 group-title="Challenger Troyes" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kenny de Schepper VS Kai Wehnelt | Challenger Troyes [Server 1]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a8/chunks.m3u8?is_vip=false&token=1782668040-Kv4cPTAAP5YTi-40a9c54897dd2b689959476dce7b0341c1e9ebee-bd032e0a94404ebbd7b10f807805f1ea
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402c18a53630615988c2c0/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=13d18eab4b890a68e84abef0c4012ffe&x-time=1782595980
+
+#EXTINF:-1 group-title="Challenger Troyes" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Kenny de Schepper VS Kai Wehnelt | Challenger Troyes [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402c18a53630615988c2c0/chunks.m3u8?is_vip=false&token=1782682417-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-14b5042f902c8e268df5361a078fee7e
+
+#EXTINF:-1 group-title="Challenger Troyes" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", John Sperle VS Amit Vales | Challenger Troyes [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402c184b4d858b85a7265a/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=cbeb533e9795f58a75743fb294596587&x-time=1782595980
+
+#EXTINF:-1 group-title="Challenger Troyes" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", John Sperle VS Amit Vales | Challenger Troyes [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402c184b4d858b85a7265a/chunks.m3u8?is_vip=false&token=1782682422-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-952845e4a9f7b62d9affec09945fcb08
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mili Poljicak VS Alejo Sanchez Quilez | Challenger Milan [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15d7f718fae4fa8319/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=2580732a3c737e3828b16e4b0e4ec8c9&x-time=1782595980
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mili Poljicak VS Alejo Sanchez Quilez | Challenger Milan [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15d7f718fae4fa8319/chunks.m3u8?is_vip=false&token=1782682427-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-0f6d2f2e7a9bc064beba148fb29ebd4f
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", S D Prajwal Dev VS Peter Makk | Challenger Brasov [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15bb875b4ddf270031/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=c1d5be2fcf4a152e5c9ccbb994f0a5c3&x-time=1782595980
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", S D Prajwal Dev VS Peter Makk | Challenger Brasov [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15bb875b4ddf270031/chunks.m3u8?is_vip=false&token=1782682432-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-b4819eaee9a0e1fde2cc11f494b9b7d0
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Luca Castelnuovo VS Gabriel Ghetu | Challenger Brasov [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eed/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=801801287d9f1c7555996f1e30f61591&x-time=1782595980
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Luca Castelnuovo VS Gabriel Ghetu | Challenger Brasov [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eed/chunks.m3u8?is_vip=false&token=1782682438-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-df4621b0ea25863d68f79c595192e765
+
+#EXTINF:-1 group-title="Maranhense - 2" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15607.png", Timon MA VS Cordino | Maranhense - 2 [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2f71be4e6abdac61583e09/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=541e885efa6855db6552f75171965162&x-time=1782596040
+
+#EXTINF:-1 group-title="Maranhense - 2" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15607.png", Timon MA VS Cordino | Maranhense - 2 [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2f71be4e6abdac61583e09/chunks.m3u8?is_vip=false&token=1782682450-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-c2df08af3864b6c8d3acaf5272b77151
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lily Pradkin VS Gianna Oboniye | UTR Pro Newport Beach Women [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a400fe62eb310ffd1c059b4/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=e2d3516b46836018352c88021750369e&x-time=1782596040
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Lily Pradkin VS Gianna Oboniye | UTR Pro Newport Beach Women [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a400fe62eb310ffd1c059b4/chunks.m3u8?is_vip=false&token=1782682455-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-bd22b0fe3e488796473fc68b21151d1d
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Sophia Webster VS Anya Murthy | UTR Pro Newport Beach Women [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a400fe6d7f718fae4fa4149/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=5b5ee0fc949b772c8e63394123526a3e&x-time=1782596040
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Sophia Webster VS Anya Murthy | UTR Pro Newport Beach Women [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a400fe6d7f718fae4fa4149/chunks.m3u8?is_vip=false&token=1782682460-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-787c1451848de94e95abf1e0450dba66
+
+#EXTINF:-1 group-title="M25 Porto" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mert Alkaya VS Carl Emil Overbeck | M25 Porto [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a400fe657b14e876d54a66d/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=e3e68e7b85b0fac4dfbe09e81f7900c1&x-time=1782596040
+
+#EXTINF:-1 group-title="M25 Porto" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mert Alkaya VS Carl Emil Overbeck | M25 Porto [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a400fe657b14e876d54a66d/chunks.m3u8?is_vip=false&token=1782682465-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-162ce478249bc1128612812bec9a8d3d
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/a61c41e388334ccc216cd7249242951e.png", Texas Rangers VS Toronto Blue Jays | MLB [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=12243d605d35ae5762637fdda0790009&x-time=1782596040
+
+#EXTINF:-1 group-title="Serie C" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/149.png", Paysandu VS Santa Cruz | Serie C [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e6/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=5b386a97a01de79f0dd442b5c23bd498&x-time=1782596040
+
+#EXTINF:-1 group-title="Serie C" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/149.png", Paysandu VS Santa Cruz | Serie C [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e6/chunks.m3u8?is_vip=false&token=1782682475-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-0cdeae7aff4e73a8b3873062f9f53306
+
+#EXTINF:-1 group-title="MLS Next Pro" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4011.png", Portland Timbers II VS The Town | MLS Next Pro [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5b5/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=9773f74e38dbe0dc5be6b04fc455ec29&x-time=1782596040
+
+#EXTINF:-1 group-title="MLS Next Pro" tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4011.png", Portland Timbers II VS The Town | MLS Next Pro [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5b5/chunks.m3u8?is_vip=false&token=1782682480-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-07fd1cd49db62fd41ef4ed35cad7909e
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Norbert Gombos VS Manuel Mazza | Challenger Milan [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e158cf75300574944fa/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=64ff7488b29150398f80cb22c600dba4&x-time=1782596040
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Norbert Gombos VS Manuel Mazza | Challenger Milan [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e158cf75300574944fa/chunks.m3u8?is_vip=false&token=1782682491-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-561c3b930ce321c6b412994cb60fe33d
+
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Couto Loureiro/Rodrigues VS Britto/Villanueva | Challenger Piracicaba MD [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402792f65afa224ed1e735/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=ef026f7eca40ad5b4501de3885f46b54&x-time=1782596100
+
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Couto Loureiro/Rodrigues VS Britto/Villanueva | Challenger Piracicaba MD [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402792f65afa224ed1e735/chunks.m3u8?is_vip=false&token=1782682504-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-b95ced3581eaa22198ffaac197268ab1
+
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", H D Pino/Huertas Del Pino VS Oliveira/Pucinelli De Almeida | Challenger Piracicaba MD [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4027cf4e6abdac61f0e526/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=cd6154e6966c922b1ffdc99515511a8f&x-time=1782596100
+
+#EXTINF:-1 group-title="Challenger Piracicaba MD" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", H D Pino/Huertas Del Pino VS Oliveira/Pucinelli De Almeida | Challenger Piracicaba MD [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4027cf4e6abdac61f0e526/chunks.m3u8?is_vip=false&token=1782682510-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-24602d7437af964f295cb48a709f4cb3
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Cassius Chinlund VS Pavel Bushuev | UTR Pro Newport Beach [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e152eb310ffd1c08028/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=79b78cc736fbed8dea96c51503cdccc5&x-time=1782596100
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Cassius Chinlund VS Pavel Bushuev | UTR Pro Newport Beach [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e152eb310ffd1c08028/chunks.m3u8?is_vip=false&token=1782682515-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-edb9a597029f287e080dac6e1fa348ed
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Anastasia Grechkina VS Alina Shcherbinina | UTR Pro Newport Beach Women [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eec/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=cf6a64219e1c73d90b15d5a6001d47ee&x-time=1782596100
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Anastasia Grechkina VS Alina Shcherbinina | UTR Pro Newport Beach Women [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15774cbee6e57d3eec/chunks.m3u8?is_vip=false&token=1782682520-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-1f46a9fc43e8a80ca709e4e8cce02113
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexia Harmon VS Chantal Sauvant | UTR Pro Newport Beach Women [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e15d7f718fae4fa8318/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=36581adda23d3013df98b8e3aa0fc68a&x-time=1782596100
+
+#EXTINF:-1 group-title="UTR Pro Newport Beach Women" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Alexia Harmon VS Chantal Sauvant | UTR Pro Newport Beach Women [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e15d7f718fae4fa8318/chunks.m3u8?is_vip=false&token=1782682525-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-9e8b2c835dedd3951a37982dc9921606
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", David Poljak VS Dominik Palan | Challenger Brasov [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e158cb9e8c43bfc1a45/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=500147aecf029d4c591c5d53f93eedd4&x-time=1782596100
+
+#EXTINF:-1 group-title="Challenger Brasov" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", David Poljak VS Dominik Palan | Challenger Brasov [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e158cb9e8c43bfc1a45/chunks.m3u8?is_vip=false&token=1782682530-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-500cf081e531361402406756f6249a71
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Matthew William Donald VS Luca Potenza | Challenger Milan [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a401e154e6abdac61f0cf6f/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=b837dc86a6a07a1e86f56c24245331e8&x-time=1782596100
+
+#EXTINF:-1 group-title="Challenger Milan" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Matthew William Donald VS Luca Potenza | Challenger Milan [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a401e154e6abdac61f0cf6f/chunks.m3u8?is_vip=false&token=1782682536-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-0a8ff849635ae993747410d34b89f518
+
+#EXTINF:-1 group-title="M15 Monastir" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mathys Picard VS Roger Pascual Ferra | M15 Monastir [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a402c183c9c35419b931269/chunks.m3u8?is_vip=false&token=b9a7edb4707f1b55815890860373d753542f1c0d&x-sign=6e1139c28702006889f416893fd20924&x-time=1782596100
+
+#EXTINF:-1 group-title="M15 Monastir" tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png", Mathys Picard VS Roger Pascual Ferra | M15 Monastir [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a402c183c9c35419b931269/chunks.m3u8?is_vip=false&token=1782682541-Kv4cPTAAP5YTi-b9a7edb4707f1b55815890860373d753542f1c0d-a87507d59ae04a42f09351da4f5478f1
 
